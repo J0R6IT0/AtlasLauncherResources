@@ -1,12 +1,12 @@
 {
-  "id": "1.3.2.1",
+  "id": "1.3.3.26",
   "mc_id": "1.1",
   "extends": "1.1",
   "downloads": {
     "client": {
-      "sha1": "3b67ffda89f4d8c7625a00aee23c270ffef642c8",
-      "size": 385340,
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.1-1.3.2.1/forge-1.1-1.3.2.1-client.zip"
+      "sha1": "2f32d8d4fe7ff21a1134cd2336d292e44e3df4b2",
+      "size": 460674,
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.1-1.3.3.26/forge-1.1-1.3.3.26-client.zip"
     }
   },
   "patches": [
