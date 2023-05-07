@@ -1,7 +1,7 @@
 {
   "id": "7.7.0.578",
   "mc_id": "1.5",
-  "extends": "1.5",
+  "extends": "_1.5",
   "downloads": {
     "client": {
       "sha1": "e0cef279c9a067955e9519aaf5c28cb38c9fd45b",
