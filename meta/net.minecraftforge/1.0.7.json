@@ -1,0 +1,32 @@
+{
+    "id": "1.0.7",
+    "mc_id": "b1.7.3",
+    "extends": "b1.7.3",
+    "downloads": {
+      "client": {
+        "sha1": "ffb035c23b0ccbbfc4fe5c42051ce69d748f08cf",
+        "size": 233825,
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ForgeClients/1.0.7.zip"
+      }
+    },
+    "patches": [
+      {
+        "downloads": {
+          "artifact": {
+            "sha1": "b290dc0b53188afa8811bad907f7587cb0d548e0",
+            "size": 74494,
+            "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ModLoader/ModLoader.B1.7.3.zip"
+          }
+        }
+      },
+      {
+        "downloads": {
+          "artifact": {
+            "sha1": "a8e462f9030ff3f7fa9817529f976a03d115af0c",
+            "size": 23328,
+            "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ModLoader/ModLoaderMp.1.7.3.Unofficial.v2.zip"
+          }
+        }
+      }
+    ]
+  }
