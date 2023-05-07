@@ -1279,6 +1279,23 @@
     ]
   },
   {
+    "mc_id": "1.4.3",
+    "versions": [
+      {
+        "id": "6.2.1.356",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/6.2.1.356.json"
+      },
+      {
+        "id": "6.2.1.357",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/6.2.1.357.json"
+      },
+      {
+        "id": "6.2.1.358",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/6.2.1.358.json"
+      }
+    ]
+  },
+  {
     "mc_id": "1.5",
     "versions": [
       {
