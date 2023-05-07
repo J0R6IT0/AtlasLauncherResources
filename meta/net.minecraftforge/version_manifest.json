@@ -713,5 +713,14 @@
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/3.4.9.171.json"
       }
     ]
+  },
+  {
+    "mc_id": "1.3.2",
+    "versions": [
+      {
+        "id": "4.0.0.172",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/4.0.0.172.json"
+      }
+    ]
   }
 ]
