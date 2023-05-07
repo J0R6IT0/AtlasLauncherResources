@@ -1,5 +1,42 @@
 [
   {
+    "mc_id": "b1.7.3",
+    "versions": [
+      {
+        "id": "1.0.0",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.0.0.json"
+      },
+      {
+        "id": "1.0.1",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.0.1.json"
+      },
+      {
+        "id": "1.0.2",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.0.2.json"
+      },
+      {
+        "id": "1.0.3",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.0.3.json"
+      },
+      {
+        "id": "1.0.4",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.0.4.json"
+      },
+      {
+        "id": "1.0.5",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.0.5.json"
+      },
+      {
+        "id": "1.0.6",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.0.6.json"
+      },
+      {
+        "id": "1.0.7",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.0.7.json"
+      }
+    ]
+  },
+  {
     "mc_id": "b1.8.1",
     "versions": [
       {
