@@ -2,6 +2,11 @@
   "id": "7.7.0.579",
   "mc_id": "1.5",
   "extends": "_1.5",
+  "arguments": {
+    "game": [
+      "-javaagent:${libraries_path}/za/net/hanro50/agenta/1.6.1/agenta-1.6.1.jar"
+    ]
+  },
   "downloads": {
     "client": {
       "sha1": "1249b4843235da3782d98d917c90d309b91bc4ca",
@@ -73,7 +78,7 @@
     {
       "downloads": {
         "artifact": {
-          "path": "${game_directory}/mods/agenta.jar",
+          "path": "libraries/za/net/hanro50/agenta/1.6.1/agenta-1.6.1.jar",
           "sha1": "a056b278882fa6f03d486bd4f0ca868af275af13",
           "size": 470864,
           "url": "https://github.com/Hanro50/Agenta/releases/download/1.6.1/agent.jar"
