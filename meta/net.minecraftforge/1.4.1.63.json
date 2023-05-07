@@ -2,7 +2,9 @@
   "id": "1.4.1.63",
   "mc_id": "1.2.3",
   "extends": "1.2.3",
-  "minecraftArguments": "--title Minecraft Minecraft 1.2.3",
+  "arguments": {
+    "game": ["--title", "Minecraft Minecraft 1.2.3"]
+  },
   "downloads": {
     "client": {
       "sha1": "4fe8f595c76a6ac45d2243e610222b05f5d5696e",
