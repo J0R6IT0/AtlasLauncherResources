@@ -1,5 +1,14 @@
 [
   {
+    "mc_id": "1.0",
+    "versions": [
+      {
+        "id": "1.2.5",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.2.5json"
+      }
+    ]
+  },
+  {
     "mc_id": "1.1",
     "versions": [
       {
