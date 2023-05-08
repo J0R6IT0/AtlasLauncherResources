@@ -3,7 +3,7 @@
   "mc_id": "1.4.4",
   "extends": "_1.4.4",
   "arguments": {
-    "game": [
+    "jvm": [
       "-javaagent:${libraries_path}/za/net/hanro50/agenta/1.6.1/agenta-1.6.1.jar"
     ]
   },
