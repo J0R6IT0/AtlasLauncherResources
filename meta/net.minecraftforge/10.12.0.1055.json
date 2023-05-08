@@ -24,6 +24,17 @@
       "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.2-10.12.0.1055/forge-1.7.2-10.12.0.1055-universal.jar"
     }
   },
+  "post-patches": [
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "e06d916a1c221880176666db27336f79576d6c20",
+          "size": 8812,
+          "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ForgeLibs/1.7.2-javafix.zip"
+        }
+      }
+    }
+  ],
   "libraries": [
     {
       "downloads": {
