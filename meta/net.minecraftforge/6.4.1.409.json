@@ -1,7 +1,7 @@
 {
   "id": "6.4.1.409",
-  "mc_id": "1.4.4",
-  "extends": "_1.4.4",
+  "mc_id": "1.4.5",
+  "extends": "_1.4.5",
   "arguments": {
     "game": [
       "-javaagent:${libraries_path}/za/net/hanro50/agenta/1.6.1/agenta-1.6.1.jar"
