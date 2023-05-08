@@ -1,0 +1,89 @@
+{
+  "id": "9.11.1.917",
+  "mc_id": "1.6.4",
+  "extends": "1.6.4",
+  "arguments": {
+    "game": [
+      "--tweakClass",
+      "cpw.mods.fml.common.launcher.FMLTweaker"
+    ],
+    "cp": "${libraries_path}/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar;${libraries_path}/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar;${libraries_path}/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar;${libraries_path}/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar;${libraries_path}/lzma/lzma/0.0.1/lzma-0.0.1.jar",
+    "cp_ignore": [
+      "${libraries_path}/org/ow2/asm/asm/9.2/asm-9.2.jar;",
+      "${libraries_path}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;"
+    ],
+    "jvm": [
+      "-javaagent:${libraries_path}/za/net/hanro50/agenta/1.6.1/agenta-1.6.1.jar"
+    ],
+    "mainClass": "net.minecraft.launchwrapper.Launch"
+  },
+  "downloads": {
+    "client": {
+      "sha1": "37769f67c28686026a7d4e680b8c58486fb60865",
+      "size": 1932625,
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.4-9.11.1.917/forge-1.6.4-9.11.1.917-universal.jar"
+    }
+  },
+  "libraries": [
+    {
+      "downloads": {
+        "artifact": {
+          "path": "libraries/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar",
+          "sha1": "d4c0895977dd7f0b3f56281cee53a64d4c0c0322",
+          "size": 28927,
+          "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar"
+        }
+      }
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "path": "libraries/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar",
+          "sha1": "6ba65d12cd09d441083262d6f73d2257fec7c663",
+          "size": 7121818,
+          "url": "https://maven.minecraftforge.net/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar"
+        }
+      }
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "path": "libraries/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar",
+          "sha1": "64c8b1380cc53d6850823d6e4e7ae984aa44ef9c",
+          "size": 14411577,
+          "url": "https://maven.minecraftforge.net/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar"
+        }
+      }
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "path": "libraries/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar",
+          "sha1": "054986e962b88d8660ae4566475658469595ef58",
+          "size": 214592,
+          "url": "https://libraries.minecraft.net/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar"
+        }
+      }
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "path": "libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar",
+          "sha1": "521616dc7487b42bef0e803bd2fa3faf668101d7",
+          "size": 5762,
+          "url": "https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+        }
+      }
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "path": "libraries/za/net/hanro50/agenta/1.6.1/agenta-1.6.1.jar",
+          "sha1": "a056b278882fa6f03d486bd4f0ca868af275af13",
+          "size": 470864,
+          "url": "https://github.com/Hanro50/Agenta/releases/download/1.6.1/agent.jar"
+        }
+      }
+    }
+  ]
+}
