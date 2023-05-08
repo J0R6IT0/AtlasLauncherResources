@@ -11,6 +11,10 @@
       "-javaagent:${libraries_path}/za/net/hanro50/agenta/1.6.1/agenta-1.6.1.jar"
     ],
     "cp": "${libraries_path}/net/minecraft/launchwrapper/1.3/launchwrapper-1.3.jar;${libraries_path}/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar;${libraries_path}/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar;${libraries_path}/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar;${libraries_path}/lzma/lzma/0.0.1/lzma-0.0.1.jar",
+    "cp_ignore": [
+      "${libraries_path}/org/ow2/asm/asm/9.2/asm-9.2.jar;",
+      "${libraries_path}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;"
+    ],
     "mainClass": "net.minecraft.launchwrapper.Launch"
   },
   "downloads": {
