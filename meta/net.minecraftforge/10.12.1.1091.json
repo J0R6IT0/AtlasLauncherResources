@@ -24,7 +24,7 @@
       "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.2-10.12.1.1091/forge-1.7.2-10.12.1.1091-universal.jar"
     }
   },
-  "post-patches": [
+  "post_patches": [
     {
       "downloads": {
         "artifact": {

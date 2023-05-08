@@ -7,10 +7,11 @@
       "--tweakClass",
       "cpw.mods.fml.common.launcher.FMLTweaker"
     ],
-    "cp": "${libraries_path}/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar;${libraries_path}/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar;${libraries_path}/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar;${libraries_path}/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar;${libraries_path}/lzma/lzma/0.0.1/lzma-0.0.1.jar",
+    "cp": "${libraries_path}/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar;${libraries_path}/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar;${libraries_path}/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar;${libraries_path}/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar;${libraries_path}/lzma/lzma/0.0.1/lzma-0.0.1.jar;${libraries_path}/com/google/guava/guava/16.0/guava-16.0.jar",
     "cp_ignore": [
       "${libraries_path}/org/ow2/asm/asm/9.2/asm-9.2.jar;",
-      "${libraries_path}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;"
+      "${libraries_path}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;",
+      "${libraries_path}/com/google/guava/guava/15.0/guava-15.0.jar"
     ],
     "jvm": [
       "-javaagent:${libraries_path}/za/net/hanro50/agenta/1.6.1/agenta-1.6.1.jar"
@@ -24,6 +25,17 @@
       "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1141-prerelease/forge-1.7.10_pre4-10.12.2.1141-prerelease-universal.jar"
     }
   },
+  "post_patches": [
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "b03ef45aa036a5b2a2a642c65dc7d5c719aa44f5",
+          "size": 8852,
+          "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ForgeLibs/1.7.10-javafix.zip"
+        }
+      }
+    }
+  ],
   "libraries": [
     {
       "downloads": {
@@ -32,6 +44,16 @@
           "sha1": "116f2aad5b0c68353ebed66cd463517db6522f7e",
           "size": 33162,
           "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.9/launchwrapper-1.9.jar"
+        }
+      }
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "path": "libraries/com/google/guava/guava/16.0/guava-16.0.jar",
+          "sha1": "aca09d2e5e8416bf91550e72281958e35460be52",
+          "size": 2225441,
+          "url": "https://libraries.minecraft.net/com/google/guava/guava/16.0/guava-16.0.jar"
         }
       }
     },

@@ -24,7 +24,7 @@
       "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.4-9.11.1.941/forge-1.6.4-9.11.1.941-universal.jar"
     }
   },
-  "post-patches": [
+  "post_patches": [
     {
       "downloads": {
         "artifact": {
