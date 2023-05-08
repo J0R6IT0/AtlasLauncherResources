@@ -2260,5 +2260,14 @@
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/7.7.2.682.json"
       }
     ]
+  },
+  {
+    "mc_id": "1.5.2",
+    "versions": [
+      {
+        "id": "7.8.0.684",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/7.8.0.684.json"
+      }
+    ]
   }
 ]
