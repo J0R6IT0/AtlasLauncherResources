@@ -10,7 +10,7 @@
     "jvm": [
       "-javaagent:${libraries_path}/za/net/hanro50/agenta/1.6.1/agenta-1.6.1.jar"
     ],
-    "cp": "${libraries_path}/lib/argo-small-3.2.jar;${libraries_path}/lib/asm-all-4.1.jar;${libraries_path}/lib/bcprov-jdk15on-148.jar;${libraries_path}/lib/guava-14.0-rc3.jar;${libraries_path}/lib/scala-library.jar;${libraries_path}/net/minecraftforge/legacyfixer/1.0/legacyfixer-1.0.jar"
+    "cp": "${libraries_path}/net/sourceforge/argo/argo/3.2-small/argo-3.2-small.jar;${libraries_path}/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar;${libraries_path}/org/bouncycastle/bcprov-jdk15on/148/bcprov-jdk15on-148.jar;${libraries_path}/com/google/guava/guava/14.0-rc3/guava-14.0-rc3.jar;${libraries_path}/org/scala-lang/scala-library/2.10.0-custom/scala-library-2.10.0-custom.jar;${libraries_path}/net/minecraftforge/legacyfixer/1.0/legacyfixer-1.0.jar"
   },
   "downloads": {
     "client": {
@@ -23,17 +23,17 @@
     {
       "downloads": {
         "artifact": {
-          "path": "libraries/lib/argo-small-3.2.jar",
+          "path": "libraries/net/sourceforge/argo/argo/3.2-small/argo-3.2-small.jar",
           "sha1": "58912ea2858d168c50781f956fa5b59f0f7c6b51",
           "size": 91333,
-          "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ForgeLibs/argo-small-3.2.jar"
+          "url": "https://maven.minecraftforge.net/net/sourceforge/argo/argo/3.2-small/argo-3.2-small.jar"
         }
       }
     },
     {
       "downloads": {
         "artifact": {
-          "path": "libraries/lib/asm-all-4.1.jar",
+          "path": "libraries/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar",
           "sha1": "054986e962b88d8660ae4566475658469595ef58",
           "size": 214592,
           "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ForgeLibs/asm-all-4.1.jar"
@@ -43,10 +43,10 @@
     {
       "downloads": {
         "artifact": {
-          "path": "libraries/lib/bcprov-jdk15on-148.jar",
+          "path": "libraries/org/bouncycastle/bcprov-jdk15on/148/bcprov-jdk15on-148.jar",
           "sha1": "960dea7c9181ba0b17e8bab0c06a43f0a5f04e65",
           "size": 2318161,
-          "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ForgeLibs/bcprov-jdk15on-148.jar"
+          "url": "https://maven.minecraftforge.net/org/bouncycastle/bcprov-jdk15on/148/bcprov-jdk15on-148.jar"
         }
       }
     },
@@ -63,20 +63,20 @@
     {
       "downloads": {
         "artifact": {
-          "path": "libraries/lib/guava-14.0-rc3.jar",
+          "path": "libraries/com/google/guava/guava/14.0-rc3/guava-14.0-rc3.jar",
           "sha1": "931ae21fa8014c3ce686aaa621eae565fefb1a6a",
           "size": 2189140,
-          "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ForgeLibs/guava-14.0-rc3.jar"
+          "url": "https://maven.minecraftforge.net/com/google/guava/guava/14.0-rc3/guava-14.0-rc3.jar"
         }
       }
     },
     {
       "downloads": {
         "artifact": {
-          "path": "libraries/lib/scala-library.jar",
+          "path": "libraries/org/scala-lang/scala-library/2.10.0-custom/scala-library-2.10.0-custom.jar",
           "sha1": "458d046151ad179c85429ed7420ffb1eaf6ddf85",
           "size": 7114640,
-          "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ForgeLibs/scala-library.jar"
+          "url": "https://maven.minecraftforge.net/org/scala-lang/scala-library/2.10.0-custom/scala-library-2.10.0-custom.jar"
         }
       }
     },
