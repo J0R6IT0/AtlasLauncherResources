@@ -24,7 +24,7 @@
       "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.4-9.11.1.940/forge-1.6.4-9.11.1.940-universal.jar"
     }
   },
-  "patches": [
+  "post-patches": [
     {
       "downloads": {
         "artifact": {
@@ -32,8 +32,7 @@
           "size": 8695,
           "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ForgeLibs/1.6.4-javafix.zip"
         }
-      },
-      "order": "post"
+      }
     }
   ],
   "libraries": [
