@@ -15,9 +15,9 @@
   },
   "downloads": {
     "client": {
-      "sha1": "83b898a262a59f405cd05c3f7e0629c00563f449",
-      "size": 2488221,
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.1-8.9.0.765/forge-1.6.1-8.9.0.765-installer.jar"
+      "sha1": "7edde670b27b90aca19ca902a69f7040587efb8b",
+      "size": 1798251,
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.1-8.9.0.765/forge-1.6.1-8.9.0.765-universal.jar"
     }
   },
   "libraries": [
