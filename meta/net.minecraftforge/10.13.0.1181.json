@@ -7,7 +7,7 @@
       "--tweakClass",
       "cpw.mods.fml.common.launcher.FMLTweaker"
     ],
-    "cp": "${libraries_path}/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;${libraries_path}/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;${libraries_path}/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;${libraries_path}/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;${libraries_path}/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;${libraries_path}/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;${libraries_path}/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;${libraries_path}/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;${libraries_path}/com/typesafe/config/1.2.1/config-1.2.1.jar;${libraries_path}/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;${libraries_path}/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;${libraries_path}/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;${libraries_path}/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;${libraries_path}/lzma/lzma/0.0.1/lzma-0.0.1.jar;${libraries_path}/com/google/guava/guava/17.0/guava-17.0.jar",
+    "cp": "${libraries_path}/net/minecraft/launchwrapper/1.9/launchwrapper-1.9.jar;${libraries_path}/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;${libraries_path}/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;${libraries_path}/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;${libraries_path}/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;${libraries_path}/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;${libraries_path}/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;${libraries_path}/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;${libraries_path}/com/typesafe/config/1.2.1/config-1.2.1.jar;${libraries_path}/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;${libraries_path}/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;${libraries_path}/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;${libraries_path}/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar;${libraries_path}/lzma/lzma/0.0.1/lzma-0.0.1.jar;${libraries_path}/com/google/guava/guava/16.0/guava-16.0.jar",
     "cp_ignore": [
       "${libraries_path}/org/ow2/asm/asm/9.2/asm-9.2.jar;",
       "${libraries_path}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;",
@@ -25,14 +25,25 @@
       "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.0.1181/forge-1.7.10-10.13.0.1181-universal.jar"
     }
   },
+  "post_patches": [
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "b03ef45aa036a5b2a2a642c65dc7d5c719aa44f5",
+          "size": 8852,
+          "url": "https://github.com/J0R6IT0/AtlasLauncherResources/releases/download/ForgeLibs/1.7.10-javafix.zip"
+        }
+      }
+    }
+  ],
   "libraries": [
     {
       "downloads": {
         "artifact": {
-          "path": "libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar",
-          "sha1": "111e7bea9c968cdb3d06ef4632bf7ff0824d0f36",
-          "size": 32999,
-          "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+          "path": "libraries/net/minecraft/launchwrapper/1.9/launchwrapper-1.9.jar",
+          "sha1": "116f2aad5b0c68353ebed66cd463517db6522f7e",
+          "size": 33162,
+          "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.9/launchwrapper-1.9.jar"
         }
       }
     },
@@ -89,10 +100,10 @@
     {
       "downloads": {
         "artifact": {
-          "path": "libraries/com/google/guava/guava/17.0/guava-17.0.jar",
-          "sha1": "9c6ef172e8de35fd8d4d8783e4821e57cdef7445",
-          "size": 2243036,
-          "url": "https://libraries.minecraft.net/com/google/guava/guava/17.0/guava-17.0.jar"
+          "path": "libraries/com/google/guava/guava/16.0/guava-16.0.jar",
+          "sha1": "aca09d2e5e8416bf91550e72281958e35460be52",
+          "size": 2225441,
+          "url": "https://libraries.minecraft.net/com/google/guava/guava/16.0/guava-16.0.jar"
         }
       }
     },
@@ -119,10 +130,10 @@
     {
       "downloads": {
         "artifact": {
-          "path": "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
-          "sha1": "4333508b8dd8ee72aa4e39afa713b3a74579b773",
-          "size": 241639,
-          "url": "https://libraries.minecraft.net/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
+          "path": "libraries/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar",
+          "sha1": "054986e962b88d8660ae4566475658469595ef58",
+          "size": 214592,
+          "url": "https://libraries.minecraft.net/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar"
         }
       }
     },
