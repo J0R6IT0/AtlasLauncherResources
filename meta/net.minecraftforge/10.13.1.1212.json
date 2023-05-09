@@ -1,5 +1,5 @@
 {
-  "id": "10.13.4.1614",
+  "id": "10.13.1.1212",
   "mc_id": "1.7.10",
   "extends": "1.7.10",
   "arguments": {
@@ -20,9 +20,9 @@
   },
   "downloads": {
     "client": {
-      "sha1": "25fd97f72beca728112256938e03e8105b1b78cc",
-      "size": 3018833,
-      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+      "sha1": "79ce923cb1ce473ca52a3457a75bd2ca0e69f1c3",
+      "size": 2677949,
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.1.1212-new/forge-1.7.10-10.13.1.1212-new-universal.jar"
     }
   },
   "libraries": [
