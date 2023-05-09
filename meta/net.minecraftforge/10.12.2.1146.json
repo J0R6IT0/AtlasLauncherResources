@@ -2,6 +2,7 @@
   "id": "10.12.2.1146",
   "mc_id": "1.7.10-pre4",
   "extends": "1.7.10-pre4",
+  "exclude_meta_inf": true,
   "arguments": {
     "game": [
       "--tweakClass",
