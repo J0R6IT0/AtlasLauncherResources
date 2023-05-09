@@ -7,7 +7,7 @@
       "--tweakClass",
       "cpw.mods.fml.common.launcher.FMLTweaker"
     ],
-    "cp": "${libraries_path}/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar;${libraries_path}/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar;${libraries_path}/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar;${libraries_path}/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar;${libraries_path}/lzma/lzma/0.0.1/lzma-0.0.1.jar;${libraries_path}/com/google/guava/guava/16.0/guava-16.0.jar",
+    "cp": "${libraries_path}/net/minecraft/launchwrapper/1.9/launchwrapper-1.9.jar;${libraries_path}/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar;${libraries_path}/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar;${libraries_path}/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar;${libraries_path}/lzma/lzma/0.0.1/lzma-0.0.1.jar;${libraries_path}/com/google/guava/guava/16.0/guava-16.0.jar",
     "cp_ignore": [
       "${libraries_path}/org/ow2/asm/asm/9.2/asm-9.2.jar;",
       "${libraries_path}/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar;",
