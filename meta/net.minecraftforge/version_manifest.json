@@ -3226,528 +3226,640 @@
     "mc_id": "1.7.2",
     "versions": [
       {
-        "id": "10.12.0.999",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.999.json"
+        "id": "1.7.2-10.12.0.967",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.967.json"
       },
       {
-        "id": "10.12.0.1000",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1000.json"
+        "id": "1.7.2-10.12.0.968",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.968.json"
       },
       {
-        "id": "10.12.0.1001",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1001.json"
+        "id": "1.7.2-10.12.0.969",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.969.json"
       },
       {
-        "id": "10.12.0.1002",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1002.json"
+        "id": "1.7.2-10.12.0.970",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.970.json"
       },
       {
-        "id": "10.12.0.1003",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1003.json"
+        "id": "1.7.2-10.12.0.971",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.971.json"
       },
       {
-        "id": "10.12.0.1004",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1004.json"
+        "id": "1.7.2-10.12.0.972",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.972.json"
       },
       {
-        "id": "10.12.0.1005",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1005.json"
+        "id": "1.7.2-10.12.0.973",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.973.json"
       },
       {
-        "id": "10.12.0.1006",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1006.json"
+        "id": "1.7.2-10.12.0.974",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.974.json"
       },
       {
-        "id": "10.12.0.1007",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1007.json"
+        "id": "1.7.2-10.12.0.975",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.975.json"
       },
       {
-        "id": "10.12.0.1008",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1008.json"
+        "id": "1.7.2-10.12.0.976",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.976.json"
       },
       {
-        "id": "10.12.0.1009",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1009.json"
+        "id": "1.7.2-10.12.0.977",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.977.json"
       },
       {
-        "id": "10.12.0.1010",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1010.json"
+        "id": "1.7.2-10.12.0.979",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.979.json"
       },
       {
-        "id": "10.12.0.1011",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1011.json"
+        "id": "1.7.2-10.12.0.980",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.980.json"
       },
       {
-        "id": "10.12.0.1012",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1012.json"
+        "id": "1.7.2-10.12.0.981",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.981.json"
       },
       {
-        "id": "10.12.0.1013",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1013.json"
+        "id": "1.7.2-10.12.0.982",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.982.json"
       },
       {
-        "id": "10.12.0.1014",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1014.json"
+        "id": "1.7.2-10.12.0.984",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.984.json"
       },
       {
-        "id": "10.12.0.1015",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1015.json"
+        "id": "1.7.2-10.12.0.985",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.985.json"
       },
       {
-        "id": "10.12.0.1016",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1016.json"
+        "id": "1.7.2-10.12.0.986",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.986.json"
       },
       {
-        "id": "10.12.0.1017",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1017.json"
+        "id": "1.7.2-10.12.0.987",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.987.json"
       },
       {
-        "id": "10.12.0.1018",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1018.json"
+        "id": "1.7.2-10.12.0.989",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.989.json"
       },
       {
-        "id": "10.12.0.1019",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1019.json"
+        "id": "1.7.2-10.12.0.990",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.990.json"
       },
       {
-        "id": "10.12.0.1020",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1020.json"
+        "id": "1.7.2-10.12.0.991",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.991.json"
       },
       {
-        "id": "10.12.0.1021",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1021.json"
+        "id": "1.7.2-10.12.0.993",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.993.json"
       },
       {
-        "id": "10.12.0.1022",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1022.json"
+        "id": "1.7.2-10.12.0.994",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.994.json"
       },
       {
-        "id": "10.12.0.1023",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1023.json"
+        "id": "1.7.2-10.12.0.995",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.995.json"
       },
       {
-        "id": "10.12.0.1024",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1024.json"
+        "id": "1.7.2-10.12.0.996",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.996.json"
       },
       {
-        "id": "10.12.0.1025",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1025.json"
+        "id": "1.7.2-10.12.0.997",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.997.json"
       },
       {
-        "id": "10.12.0.1026",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1026.json"
+        "id": "1.7.2-10.12.0.998",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.998.json"
       },
       {
-        "id": "10.12.0.1027",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1027.json"
+        "id": "1.7.2-10.12.0.999",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.999.json"
       },
       {
-        "id": "10.12.0.1028",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1028.json"
+        "id": "1.7.2-10.12.0.1000",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1000.json"
       },
       {
-        "id": "10.12.0.1029",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1029.json"
+        "id": "1.7.2-10.12.0.1001",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1001.json"
       },
       {
-        "id": "10.12.0.1030",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1030.json"
+        "id": "1.7.2-10.12.0.1002",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1002.json"
       },
       {
-        "id": "10.12.0.1031",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1031.json"
+        "id": "1.7.2-10.12.0.1003",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1003.json"
       },
       {
-        "id": "10.12.0.1032",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1032.json"
+        "id": "1.7.2-10.12.0.1004",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1004.json"
       },
       {
-        "id": "10.12.0.1033",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1033.json"
+        "id": "1.7.2-10.12.0.1005",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1005.json"
       },
       {
-        "id": "10.12.0.1034",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1034.json"
+        "id": "1.7.2-10.12.0.1006",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1006.json"
       },
       {
-        "id": "10.12.0.1039",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1039.json"
+        "id": "1.7.2-10.12.0.1007",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1007.json"
       },
       {
-        "id": "10.12.0.1040",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1040.json"
+        "id": "1.7.2-10.12.0.1008",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1008.json"
       },
       {
-        "id": "10.12.0.1041",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1041.json"
+        "id": "1.7.2-10.12.0.1009",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1009.json"
       },
       {
-        "id": "10.12.0.1042",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1042.json"
+        "id": "1.7.2-10.12.0.1010",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1010.json"
       },
       {
-        "id": "10.12.0.1043",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1043.json"
+        "id": "1.7.2-10.12.0.1011",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1011.json"
       },
       {
-        "id": "10.12.0.1044",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1044.json"
+        "id": "1.7.2-10.12.0.1012",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1012.json"
       },
       {
-        "id": "10.12.0.1045",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1045.json"
+        "id": "1.7.2-10.12.0.1013",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1013.json"
       },
       {
-        "id": "10.12.0.1046",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1046.json"
+        "id": "1.7.2-10.12.0.1014",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1014.json"
       },
       {
-        "id": "10.12.0.1047",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1047.json"
+        "id": "1.7.2-10.12.0.1015",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1015.json"
       },
       {
-        "id": "10.12.0.1048",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1048.json"
+        "id": "1.7.2-10.12.0.1016",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1016.json"
       },
       {
-        "id": "10.12.0.1049",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1049.json"
+        "id": "1.7.2-10.12.0.1017",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1017.json"
       },
       {
-        "id": "10.12.0.1050",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1050.json"
+        "id": "1.7.2-10.12.0.1018",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1018.json"
       },
       {
-        "id": "10.12.0.1051",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1051.json"
+        "id": "1.7.2-10.12.0.1019",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1019.json"
       },
       {
-        "id": "10.12.0.1052",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1052.json"
+        "id": "1.7.2-10.12.0.1020",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1020.json"
       },
       {
-        "id": "10.12.0.1053",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1053.json"
+        "id": "1.7.2-10.12.0.1021",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1021.json"
       },
       {
-        "id": "10.12.0.1054",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1054.json"
+        "id": "1.7.2-10.12.0.1022",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1022.json"
       },
       {
-        "id": "10.12.0.1055",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1055.json"
+        "id": "1.7.2-10.12.0.1023",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1023.json"
       },
       {
-        "id": "10.12.0.1056",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1056.json"
+        "id": "1.7.2-10.12.0.1024",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1024.json"
       },
       {
-        "id": "10.12.0.1057",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1057.json"
+        "id": "1.7.2-10.12.0.1025",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1025.json"
       },
       {
-        "id": "10.12.0.1058",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1058.json"
+        "id": "1.7.2-10.12.0.1026",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1026.json"
       },
       {
-        "id": "10.12.0.1059",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.0.1059.json"
+        "id": "1.7.2-10.12.0.1027",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1027.json"
       },
       {
-        "id": "10.12.1.1060",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1060.json"
+        "id": "1.7.2-10.12.0.1028",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1028.json"
       },
       {
-        "id": "10.12.1.1061",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1061.json"
+        "id": "1.7.2-10.12.0.1029",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1029.json"
       },
       {
-        "id": "10.12.1.1063",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1063.json"
+        "id": "1.7.2-10.12.0.1030",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1030.json"
       },
       {
-        "id": "10.12.1.1065",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1065.json"
+        "id": "1.7.2-10.12.0.1031",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1031.json"
       },
       {
-        "id": "10.12.1.1066",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1066.json"
+        "id": "1.7.2-10.12.0.1032",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1032.json"
       },
       {
-        "id": "10.12.1.1067",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1067.json"
+        "id": "1.7.2-10.12.0.1033",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1033.json"
       },
       {
-        "id": "10.12.1.1068",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1068.json"
+        "id": "1.7.2-10.12.0.1034",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1034.json"
       },
       {
-        "id": "10.12.1.1069",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1069.json"
+        "id": "1.7.2-10.12.0.1039",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1039.json"
       },
       {
-        "id": "10.12.1.1070",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1070.json"
+        "id": "1.7.2-10.12.0.1040",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1040.json"
       },
       {
-        "id": "10.12.1.1071",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1071.json"
+        "id": "1.7.2-10.12.0.1041",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1041.json"
       },
       {
-        "id": "10.12.1.1072",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1072.json"
+        "id": "1.7.2-10.12.0.1042",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1042.json"
       },
       {
-        "id": "10.12.1.1073",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1073.json"
+        "id": "1.7.2-10.12.0.1043",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1043.json"
       },
       {
-        "id": "10.12.1.1074",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1074.json"
+        "id": "1.7.2-10.12.0.1044",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1044.json"
       },
       {
-        "id": "10.12.1.1075",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1075.json"
+        "id": "1.7.2-10.12.0.1045",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1045.json"
       },
       {
-        "id": "10.12.1.1076",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1076.json"
+        "id": "1.7.2-10.12.0.1046",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1046.json"
       },
       {
-        "id": "10.12.1.1077",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1077.json"
+        "id": "1.7.2-10.12.0.1047",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1047.json"
       },
       {
-        "id": "10.12.1.1078",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1078.json"
+        "id": "1.7.2-10.12.0.1048",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1048.json"
       },
       {
-        "id": "10.12.1.1079",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1079.json"
+        "id": "1.7.2-10.12.0.1049",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1049.json"
       },
       {
-        "id": "10.12.1.1080",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1080.json"
+        "id": "1.7.2-10.12.0.1050",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1050.json"
       },
       {
-        "id": "10.12.1.1081",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1081.json"
+        "id": "1.7.2-10.12.0.1051",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1051.json"
       },
       {
-        "id": "10.12.1.1082",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1082.json"
+        "id": "1.7.2-10.12.0.1052",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1052.json"
       },
       {
-        "id": "10.12.1.1083",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1083.json"
+        "id": "1.7.2-10.12.0.1053",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1053.json"
       },
       {
-        "id": "10.12.1.1084",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1084.json"
+        "id": "1.7.2-10.12.0.1054",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1054.json"
       },
       {
-        "id": "10.12.1.1085",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1085.json"
+        "id": "1.7.2-10.12.0.1055",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1055.json"
       },
       {
-        "id": "10.12.1.1087",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1087.json"
+        "id": "1.7.2-10.12.0.1056",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1056.json"
       },
       {
-        "id": "10.12.1.1088",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1088.json"
+        "id": "1.7.2-10.12.0.1057",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1057.json"
       },
       {
-        "id": "10.12.1.1090",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1090.json"
+        "id": "1.7.2-10.12.0.1058",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1058.json"
       },
       {
-        "id": "10.12.1.1091",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1091.json"
+        "id": "1.7.2-10.12.0.1059",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.0.1059.json"
       },
       {
-        "id": "10.12.1.1092",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1092.json"
+        "id": "1.7.2-10.12.1.1060",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1060.json"
       },
       {
-        "id": "10.12.1.1093",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1093.json"
+        "id": "1.7.2-10.12.1.1061",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1061.json"
       },
       {
-        "id": "10.12.1.1094",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1094.json"
+        "id": "1.7.2-10.12.1.1063",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1063.json"
       },
       {
-        "id": "10.12.1.1095",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1095.json"
+        "id": "1.7.2-10.12.1.1065",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1065.json"
       },
       {
-        "id": "10.12.1.1096",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1096.json"
+        "id": "1.7.2-10.12.1.1066",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1066.json"
       },
       {
-        "id": "10.12.1.1097",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1097.json"
+        "id": "1.7.2-10.12.1.1067",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1067.json"
       },
       {
-        "id": "10.12.1.1098",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1098.json"
+        "id": "1.7.2-10.12.1.1068",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1068.json"
       },
       {
-        "id": "10.12.1.1099",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1099.json"
+        "id": "1.7.2-10.12.1.1069",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1069.json"
       },
       {
-        "id": "10.12.1.1100",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1100.json"
+        "id": "1.7.2-10.12.1.1070",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1070.json"
       },
       {
-        "id": "10.12.1.1101",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1101.json"
+        "id": "1.7.2-10.12.1.1071",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1071.json"
       },
       {
-        "id": "10.12.1.1103",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1103.json"
+        "id": "1.7.2-10.12.1.1072",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1072.json"
       },
       {
-        "id": "10.12.1.1104",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1104.json"
+        "id": "1.7.2-10.12.1.1073",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1073.json"
       },
       {
-        "id": "10.12.1.1105",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1105.json"
+        "id": "1.7.2-10.12.1.1074",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1074.json"
       },
       {
-        "id": "10.12.1.1106",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1106.json"
+        "id": "1.7.2-10.12.1.1075",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1075.json"
       },
       {
-        "id": "10.12.1.1107",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1107.json"
+        "id": "1.7.2-10.12.1.1076",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1076.json"
       },
       {
-        "id": "10.12.1.1108",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1108.json"
+        "id": "1.7.2-10.12.1.1077",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1077.json"
       },
       {
-        "id": "10.12.1.1109",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1109.json"
+        "id": "1.7.2-10.12.1.1078",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1078.json"
       },
       {
-        "id": "10.12.1.1110",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1110.json"
+        "id": "1.7.2-10.12.1.1079",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1079.json"
       },
       {
-        "id": "10.12.1.1111",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1111.json"
+        "id": "1.7.2-10.12.1.1080",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1080.json"
       },
       {
-        "id": "10.12.1.1112",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1112.json"
+        "id": "1.7.2-10.12.1.1081",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1081.json"
       },
       {
-        "id": "10.12.1.1113",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1113.json"
+        "id": "1.7.2-10.12.1.1082",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1082.json"
       },
       {
-        "id": "10.12.1.1114",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1114.json"
+        "id": "1.7.2-10.12.1.1083",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1083.json"
       },
       {
-        "id": "10.12.1.1115",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1115.json"
+        "id": "1.7.2-10.12.1.1084",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1084.json"
       },
       {
-        "id": "10.12.1.1116",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1116.json"
+        "id": "1.7.2-10.12.1.1085",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1085.json"
       },
       {
-        "id": "10.12.1.1117",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1117.json"
+        "id": "1.7.2-10.12.1.1087",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1087.json"
       },
       {
-        "id": "10.12.1.1118",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1118.json"
+        "id": "1.7.2-10.12.1.1088",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1088.json"
       },
       {
-        "id": "10.12.1.1119",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1119.json"
+        "id": "1.7.2-10.12.1.1090",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1090.json"
       },
       {
-        "id": "10.12.1.1120",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.1.1120.json"
+        "id": "1.7.2-10.12.1.1091",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1091.json"
       },
       {
-        "id": "10.12.2.1121",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1121.json"
+        "id": "1.7.2-10.12.1.1092",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1092.json"
       },
       {
-        "id": "10.12.2.1122",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1122.json"
+        "id": "1.7.2-10.12.1.1093",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1093.json"
       },
       {
-        "id": "10.12.2.1123",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1123.json"
+        "id": "1.7.2-10.12.1.1094",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1094.json"
       },
       {
-        "id": "10.12.2.1124",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1124.json"
+        "id": "1.7.2-10.12.1.1095",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1095.json"
       },
       {
-        "id": "10.12.2.1125",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1125.json"
+        "id": "1.7.2-10.12.1.1096",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1096.json"
       },
       {
-        "id": "10.12.2.1126",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1126.json"
+        "id": "1.7.2-10.12.1.1097",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1097.json"
       },
       {
-        "id": "10.12.2.1127",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1127.json"
+        "id": "1.7.2-10.12.1.1098",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1098.json"
       },
       {
-        "id": "10.12.2.1128",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1128.json"
+        "id": "1.7.2-10.12.1.1099",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1099.json"
       },
       {
-        "id": "10.12.2.1129",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1129.json"
+        "id": "1.7.2-10.12.1.1100",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1100.json"
       },
       {
-        "id": "10.12.2.1130",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1130.json"
+        "id": "1.7.2-10.12.1.1101",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1101.json"
       },
       {
-        "id": "10.12.2.1131",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1131.json"
+        "id": "1.7.2-10.12.1.1103",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1103.json"
       },
       {
-        "id": "10.12.2.1132",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1132.json"
+        "id": "1.7.2-10.12.1.1104",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1104.json"
       },
       {
-        "id": "10.12.2.1133",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1133.json"
+        "id": "1.7.2-10.12.1.1105",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1105.json"
       },
       {
-        "id": "10.12.2.1145",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1145.json"
+        "id": "1.7.2-10.12.1.1106",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1106.json"
       },
       {
-        "id": "10.12.2.1147",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1147.json"
+        "id": "1.7.2-10.12.1.1107",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1107.json"
       },
       {
-        "id": "10.12.2.1154",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1154.json"
+        "id": "1.7.2-10.12.1.1108",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1108.json"
       },
       {
-        "id": "10.12.2.1155",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1155.json"
+        "id": "1.7.2-10.12.1.1109",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1109.json"
       },
       {
-        "id": "10.12.2.1161",
-        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/10.12.2.1161.json"
+        "id": "1.7.2-10.12.1.1110",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1110.json"
+      },
+      {
+        "id": "1.7.2-10.12.1.1111",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1111.json"
+      },
+      {
+        "id": "1.7.2-10.12.1.1112",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1112.json"
+      },
+      {
+        "id": "1.7.2-10.12.1.1113",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1113.json"
+      },
+      {
+        "id": "1.7.2-10.12.1.1114",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1114.json"
+      },
+      {
+        "id": "1.7.2-10.12.1.1115",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1115.json"
+      },
+      {
+        "id": "1.7.2-10.12.1.1116",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1116.json"
+      },
+      {
+        "id": "1.7.2-10.12.1.1117",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1117.json"
+      },
+      {
+        "id": "1.7.2-10.12.1.1118",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1118.json"
+      },
+      {
+        "id": "1.7.2-10.12.1.1119",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1119.json"
+      },
+      {
+        "id": "1.7.2-10.12.1.1120",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.1.1120.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1121",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1121.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1122",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1122.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1123",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1123.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1124",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1124.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1125",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1125.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1126",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1126.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1127",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1127.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1128",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1128.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1129",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1129.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1130",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1130.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1131",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1131.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1132",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1132.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1133",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1133.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1145",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1145.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1147",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1147.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1154-mc172",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1154-mc172.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1155-mc172",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1155-mc172.json"
+      },
+      {
+        "id": "1.7.2-10.12.2.1161-mc172",
+        "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.7.2-10.12.2.1161-mc172.json"
       }
     ]
   },
