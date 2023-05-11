@@ -57,27 +57,27 @@
     "mc_id": "1.0",
     "versions": [
       {
-        "id": "1.2.0",
+        "id": "1.0-1.2.0",
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.2.0.json"
       },
       {
-        "id": "1.2.1",
+        "id": "1.0-1.2.1",
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.2.1.json"
       },
       {
-        "id": "1.2.2",
+        "id": "1.0-1.2.2",
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.2.2.json"
       },
       {
-        "id": "1.2.3",
+        "id": "1.0-1.2.3",
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.2.3.json"
       },
       {
-        "id": "1.2.4",
+        "id": "1.0-1.2.4",
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.2.4.json"
       },
       {
-        "id": "1.2.5",
+        "id": "1.0-1.2.5",
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.2.5.json"
       }
     ]
