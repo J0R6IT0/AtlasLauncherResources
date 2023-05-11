@@ -40,15 +40,15 @@
     "mc_id": "b1.8.1",
     "versions": [
       {
-        "id": "1.1.0",
+        "id": "b1.8.1-1.1.0",
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.1.0.json"
       },
       {
-        "id": "1.1.1",
+        "id": "b1.8.1-1.1.1",
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.1.1.json"
       },
       {
-        "id": "1.1.2",
+        "id": "b1.8.1-1.1.2",
         "url": "https://github.com/J0R6IT0/AtlasLauncherResources/raw/main/meta/net.minecraftforge/1.1.2.json"
       }
     ]
