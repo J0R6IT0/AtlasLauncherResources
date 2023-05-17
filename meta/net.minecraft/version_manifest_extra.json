@@ -1,0 +1,13 @@
+{
+    "versions": [
+        {
+            "complianceLevel": 1,
+            "id": "23w13a_or_b_original",
+            "releaseTime": "2023-04-01T12:00:18+00:00",
+            "sha1": "0a776ef65ee85cf341ee4afb267658cc09f53f68",
+            "time": "2023-05-16T11:24:02+00:00",
+            "type": "snapshot",
+            "url": "https://piston-meta.mojang.com/v1/packages/0a776ef65ee85cf341ee4afb267658cc09f53f68/23w13a_or_b.json"
+          }
+    ]
+}
