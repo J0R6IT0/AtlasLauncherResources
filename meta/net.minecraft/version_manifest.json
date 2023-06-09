@@ -5561,13 +5561,15 @@
             "releaseTime": "2009-05-16T22:00:00+00:00",
             "id": "c0.0.11a",
             "type": "old_alpha",
-            "url": "https://mcphackers.github.io/BetterJSONs/jsons/c0.0.11a.json"
+            "sha1": "cf109d6a5f86f9585102187f7f28827a21669e61",
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/c0.0.11a.json"
         },
         {
             "releaseTime": "2009-05-16T11:48:00+00:00",
             "id": "rd-161348",
             "type": "old_alpha",
-            "url": "https://mcphackers.github.io/BetterJSONs/jsons/rd-161348.json"
+            "sha1": "bbb0d1cff8dbf1d328b0c63d9d1a8f03887be9d7",
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/rd-161348.json"
         },
         {
             "releaseTime": "2009-05-15T22:52:00+00:00",
