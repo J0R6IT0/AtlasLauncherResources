@@ -4349,7 +4349,8 @@
             "releaseTime": "2012-11-18T22:00:00+00:00",
             "id": "1.4",
             "type": "snapshot",
-            "url": "https://mcphackers.github.io/BetterJSONs/jsons/1.4.json"
+            "sha1": "68621f04b303e6703c67235e1ea4a6d3d61c4da8",
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.json"
         },
         {
             "releaseTime": "2012-10-18T00:00:00+00:00",
@@ -5643,11 +5644,6 @@
             "id": "_1.4.1",
             "sha1": "14c3ba517b5baabdfc61b60eb49d9aa7da012906",
             "url": "https://piston-meta.mojang.com/v1/packages/14c3ba517b5baabdfc61b60eb49d9aa7da012906/1.4.1.json"
-        },
-        {
-            "id": "_1.4",
-            "sha1": "d979a4671611bf8704c0a2a0cf09964ca25eefd7",
-            "url": "https://piston-meta.mojang.com/v1/packages/d979a4671611bf8704c0a2a0cf09964ca25eefd7/1.4.json"
         }
     ]
 }
