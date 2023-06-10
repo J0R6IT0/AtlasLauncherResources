@@ -571,7 +571,7 @@
             "id": "1.19_deep_dark_experimental_snapshot-1",
             "releaseTime": "2022-02-17T12:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.19_deep_dark_experimental_snapshot-1.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.19_deep_dark_experimental_snapshot-1.json"
         },
         {
             "id": "22w07a",
@@ -787,43 +787,43 @@
             "id": "1.18_experimental-snapshot-7",
             "releaseTime": "2021-09-08T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.18_experimental-snapshot-7.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.18_experimental-snapshot-7.json"
         },
         {
             "id": "1.18_experimental-snapshot-6",
             "releaseTime": "2021-09-01T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.18_experimental-snapshot-6.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.18_experimental-snapshot-6.json"
         },
         {
             "id": "1.18_experimental-snapshot-5",
             "releaseTime": "2021-08-25T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.18_experimental-snapshot-5.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.18_experimental-snapshot-5.json"
         },
         {
             "id": "1.18_experimental-snapshot-4",
             "releaseTime": "2021-08-17T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.18_experimental-snapshot-4.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.18_experimental-snapshot-4.json"
         },
         {
             "id": "1.18_experimental-snapshot-3",
             "releaseTime": "2021-08-10T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.18_experimental-snapshot-3.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.18_experimental-snapshot-3.json"
         },
         {
             "id": "1.18_experimental-snapshot-2",
             "releaseTime": "2021-07-20T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.18_experimental-snapshot-2.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.18_experimental-snapshot-2.json"
         },
         {
             "id": "1.18_experimental-snapshot-1",
             "releaseTime": "2021-07-13T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.18_experimental-snapshot-1.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.18_experimental-snapshot-1.json"
         },
         {
             "id": "1.17.1",
@@ -1137,37 +1137,37 @@
             "id": "1.16_combat-6",
             "releaseTime": "2020-08-26T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.16_combat-6.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.16_combat-6.json"
         },
         {
             "id": "1.16_combat-5",
             "releaseTime": "2020-08-21T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.16_combat-5.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.16_combat-5.json"
         },
         {
             "id": "1.16_combat-4",
             "releaseTime": "2020-08-19T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.16_combat-4.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.16_combat-4.json"
         },
         {
             "id": "1.16_combat-3",
             "releaseTime": "2020-08-14T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.16_combat-3.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.16_combat-3.json"
         },
         {
             "id": "1.16_combat-2",
             "releaseTime": "2020-08-13T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.16_combat-2.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.16_combat-2.json"
         },
         {
             "id": "1.16_combat-1",
             "releaseTime": "2020-08-12T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.16_combat-1.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.16_combat-1.json"
         },
         {
             "id": "1.16.2",
@@ -1194,7 +1194,7 @@
             "id": "1.16_combat-0",
             "releaseTime": "2020-08-07T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.16_combat-0.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.16_combat-0.json"
         },
         {
             "id": "1.16.2-pre3",
@@ -1487,7 +1487,7 @@
             "id": "1.15_combat-6",
             "releaseTime": "2020-01-16T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.15_combat-6.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.15_combat-6.json"
         },
         {
             "id": "1.15.2-pre1",
@@ -1570,7 +1570,7 @@
             "id": "1.15_combat-1",
             "releaseTime": "2019-11-20T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.15_combat-1.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.15_combat-1.json"
         },
         {
             "id": "19w46b",
@@ -1604,7 +1604,7 @@
             "id": "1.14_combat-3",
             "releaseTime": "2019-11-01T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.14_combat-3.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.14_combat-3.json"
         },
         {
             "id": "19w44a",
@@ -1687,7 +1687,7 @@
             "id": "1.14_combat-0",
             "releaseTime": "2019-08-15T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.14_combat-0.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.14_combat-0.json"
         },
         {
             "id": "1.14.4",
@@ -1756,7 +1756,7 @@
             "id": "1.14_combat-212796",
             "releaseTime": "2019-06-20T00:00:00+00:00",
             "type": "snapshot",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.14_combat-212796.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.14_combat-212796.json"
         },
         {
             "id": "1.14.3-pre4",
@@ -4050,7 +4050,7 @@
             "id": "1.6.1",
             "type": "release",
             "sha1": "6d01ccef7b985a4bd0bab6a1e7a76a2257fb5feb",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.6.1.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.6.1.json"
         },
         {
             "releaseTime": "2013-06-25T13:08:56+00:00",
@@ -4159,7 +4159,7 @@
             "id": "1.5.2",
             "type": "release",
             "sha1": "f187c3b9e0dd75ef1b89f8bc31e7629f0ca481fd",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.5.2.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.5.2.json"
         },
         {
             "releaseTime": "2013-04-23T21:51:22+00:00",
@@ -4178,7 +4178,7 @@
             "id": "1.5.1",
             "type": "release",
             "sha1": "16ddcd9e4ea190e44aaf445a97117aab058f9409",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.5.1.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.5.1.json"
         },
         {
             "releaseTime": "2013-03-19T00:00:00+00:00",
@@ -4191,7 +4191,7 @@
             "id": "1.5",
             "type": "snapshot",
             "sha1": "f78c1e68fa9113d5231440db75a0f77117ea734a",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.5.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.5.json"
         },
         {
             "releaseTime": "2013-03-06T00:00:00+00:00",
@@ -4294,21 +4294,21 @@
             "id": "1.4.7",
             "type": "release",
             "sha1": "0bed4d215db4b95bd1c6db64390cdcbd2d3993db",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.7.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.4.7.json"
         },
         {
             "releaseTime": "2012-12-19T22:00:00+00:00",
             "id": "1.4.6",
             "type": "release",
             "sha1": "edc33f14d0596e00545b69a86e8c2c82ea4c045e",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.6.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.4.6.json"
         },
         {
             "releaseTime": "2012-12-19T22:00:00+00:00",
             "id": "1.4.5",
             "type": "release",
             "sha1": "2cee14877fd5255cf09c157ae406798774c027d7",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.5.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.4.5.json"
         },
         {
             "releaseTime": "2012-12-14T00:00:00+00:00",
@@ -4321,7 +4321,7 @@
             "id": "1.4.4",
             "type": "release",
             "sha1": "5571d4fa7b3b10a3ce6b6bfd3071c347152280e5",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.4.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.4.4.json"
         },
         {
             "releaseTime": "2012-12-13T00:00:00+00:00",
@@ -4340,28 +4340,28 @@
             "id": "1.4.3",
             "type": "snapshot",
             "sha1": "66901e4dfa5b72ea89833563a8f85d971f70f3b3",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.3.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.4.3.json"
         },
         {
             "releaseTime": "2012-11-24T22:00:00+00:00",
             "id": "1.4.2",
             "type": "release",
             "sha1": "e697baedf06e0ca62023696f93fdce9fbd4e9d95",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.2.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.4.2.json"
         },
         {
             "releaseTime": "2012-11-22T22:00:00+00:00",
             "id": "1.4.1",
             "type": "snapshot",
             "sha1": "121c0d98fb2c9aac5c9e5250b1be91b706a49c6b",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.1.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.4.1.json"
         },
         {
             "releaseTime": "2012-11-18T22:00:00+00:00",
             "id": "1.4",
             "type": "snapshot",
             "sha1": "68621f04b303e6703c67235e1ea4a6d3d61c4da8",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.4.json"
         },
         {
             "releaseTime": "2012-10-18T00:00:00+00:00",
@@ -4452,7 +4452,7 @@
             "id": "1.3.2",
             "type": "release",
             "sha1": "93ee737d1dd4ebcf9efb661c26c028d985d6876e",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.3.2.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.3.2.json"
         },
         {
             "releaseTime": "2012-08-09T00:00:00+00:00",
@@ -5569,42 +5569,42 @@
             "id": "c0.0.12a_03",
             "type": "old_alpha",
             "sha1": "133be99b39d5e988215ad2104585b58f17f532a1",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/c0.0.12a_03.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/c0.0.12a_03.json"
         },
         {
             "releaseTime": "2009-05-16T22:00:00+00:00",
             "id": "c0.0.11a",
             "type": "old_alpha",
             "sha1": "4adbf3a4de5dda62ba4606535a21761f47a12596",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/c0.0.11a.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/c0.0.11a.json"
         },
         {
             "releaseTime": "2009-05-16T11:48:00+00:00",
             "id": "rd-161348",
             "type": "old_alpha",
             "sha1": "bbb0d1cff8dbf1d328b0c63d9d1a8f03887be9d7",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/rd-161348.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/rd-161348.json"
         },
         {
             "releaseTime": "2009-05-15T22:52:00+00:00",
             "id": "rd-160052",
             "type": "old_alpha",
             "sha1": "10583156a38e126eb8d4846b37c3b87efab2d997",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/rd-160052.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/rd-160052.json"
         },
         {
             "releaseTime": "2009-05-13T21:28:00+00:00",
             "id": "rd-132328",
             "type": "old_alpha",
             "sha1": "878dd79d1d19139a8de037053a9c1c7947fd2855",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/rd-132328.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/rd-132328.json"
         },
         {
             "releaseTime": "2009-05-13T20:11:00+00:00",
             "id": "rd-132211",
             "type": "old_alpha",
             "sha1": "09bebef9d4d488a0ebc4e61f84a435294172ed96",
-            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/rd-132211.json"
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/rd-132211.json"
         }
     ]
 }
