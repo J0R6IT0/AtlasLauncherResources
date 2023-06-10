@@ -5636,11 +5636,6 @@
             "id": "_1.4.3",
             "sha1": "3ab416ac64dac1a6123402a8aabd8ef3caeef087",
             "url": "https://piston-meta.mojang.com/v1/packages/3ab416ac64dac1a6123402a8aabd8ef3caeef087/1.4.3.json"
-        },
-        {
-            "id": "_1.4.2",
-            "sha1": "2fd77aa19aba2860bbf4c1fd9f84f232703dd287",
-            "url": "https://piston-meta.mojang.com/v1/packages/2fd77aa19aba2860bbf4c1fd9f84f232703dd287/1.4.2.json"
         }
     ]
 }
