@@ -4337,13 +4337,15 @@
             "releaseTime": "2012-11-24T22:00:00+00:00",
             "id": "1.4.2",
             "type": "release",
-            "url": "https://mcphackers.github.io/BetterJSONs/jsons/1.4.2.json"
+            "sha1": "e697baedf06e0ca62023696f93fdce9fbd4e9d95",
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.2.json"
         },
         {
             "releaseTime": "2012-11-22T22:00:00+00:00",
             "id": "1.4.1",
             "type": "snapshot",
-            "url": "https://mcphackers.github.io/BetterJSONs/jsons/1.4.1.json"
+            "sha1": "121c0d98fb2c9aac5c9e5250b1be91b706a49c6b",
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/net.minecraft/1.4.1.json"
         },
         {
             "releaseTime": "2012-11-18T22:00:00+00:00",
@@ -5639,11 +5641,6 @@
             "id": "_1.4.2",
             "sha1": "2fd77aa19aba2860bbf4c1fd9f84f232703dd287",
             "url": "https://piston-meta.mojang.com/v1/packages/2fd77aa19aba2860bbf4c1fd9f84f232703dd287/1.4.2.json"
-        },
-        {
-            "id": "_1.4.1",
-            "sha1": "14c3ba517b5baabdfc61b60eb49d9aa7da012906",
-            "url": "https://piston-meta.mojang.com/v1/packages/14c3ba517b5baabdfc61b60eb49d9aa7da012906/1.4.1.json"
         }
     ]
 }
