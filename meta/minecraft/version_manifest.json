@@ -3671,7 +3671,8 @@
             "releaseTime": "2014-05-14T16:29:23+00:00",
             "id": "1.7.10-pre4",
             "type": "snapshot",
-            "url": "https://mcphackers.github.io/BetterJSONs/jsons/1.7.10-pre4.json"
+            "sha1": "93f05be7489ce41f0cdd836cdffc1c69ce55ee7a",
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.7.10-pre4.json"
         },
         {
             "releaseTime": "2014-05-14T15:29:23+00:00",
@@ -3929,7 +3930,8 @@
             "releaseTime": "2013-10-25T13:00:00+00:00",
             "id": "1.7.2",
             "type": "release",
-            "url": "https://mcphackers.github.io/BetterJSONs/jsons/1.7.2.json"
+            "sha1": "ab331d445e50c4e069009d7adbe817e277ead0fa",
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.7.2.json"
         },
         {
             "releaseTime": "2013-10-23T12:01:07+00:00",
@@ -4007,13 +4009,15 @@
             "releaseTime": "2013-09-19T15:52:37+00:00",
             "id": "1.6.4",
             "type": "release",
-            "url": "https://mcphackers.github.io/BetterJSONs/jsons/1.6.4.json"
+            "sha1": "1166168005bef33ec5a21c0749072b3453f4041b",
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.6.4.json"
         },
         {
             "releaseTime": "2013-09-13T10:54:41+00:00",
             "id": "1.6.3",
             "type": "snapshot",
-            "url": "https://mcphackers.github.io/BetterJSONs/jsons/1.6.3.json"
+            "sha1": "408029d04ae005a0d3c9a4f3ed1bb3e2c2c9f58e",
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.6.3.json"
         },
         {
             "releaseTime": "2013-09-13T10:54:41+00:00",
