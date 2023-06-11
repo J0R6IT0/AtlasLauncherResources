@@ -4043,13 +4043,14 @@
             "releaseTime": "2013-07-05T13:09:02+00:00",
             "id": "1.6.2",
             "type": "release",
-            "url": "https://mcphackers.github.io/BetterJSONs/jsons/1.6.2.json"
+            "sha1": "c76d2778fc79b028775b8ea3a060262f0e6c222c",
+            "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.6.2.json"
         },
         {
             "releaseTime": "2013-06-28T14:48:41+00:00",
             "id": "1.6.1",
             "type": "release",
-            "sha1": "6d01ccef7b985a4bd0bab6a1e7a76a2257fb5feb",
+            "sha1": "8c3a8b0dbdff16c3d889794eceb44f58809b8c32",
             "url": "https://raw.githubusercontent.com/J0R6IT0/AtlasLauncherResources/main/meta/minecraft/1.6.1.json"
         },
         {

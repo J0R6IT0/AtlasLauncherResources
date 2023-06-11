@@ -1,2 +1,2 @@
 # AtlasLauncherResources
-Miscellaneous resources for Atlas Launcher.
+Metadata and various resources for AtlasLauncher.
