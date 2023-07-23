@@ -6,8 +6,1787 @@
   },
   "versions": [
     {
+      "id": "1.20.1",
+      "type": "release",
+      "url": "{MOJANG}/715ccf3330885e75b205124f09f8712542cbe7e0/1.20.1.json",
+      "releaseTime": "2023-06-12T13:25:51+00:00",
+      "sha1": "715ccf3330885e75b205124f09f8712542cbe7e0"
+    },
+    {
+      "id": "1.20.1-rc1",
+      "type": "snapshot",
+      "url": "{MOJANG}/483d6eb93bc1e2dea7db3c8447049e9733de2bf8/1.20.1-rc1.json",
+      "releaseTime": "2023-06-09T14:15:49+00:00",
+      "sha1": "483d6eb93bc1e2dea7db3c8447049e9733de2bf8"
+    },
+    {
+      "id": "1.20",
+      "releaseTime": "2023-06-02T08:36:17+00:00",
+      "sha1": "551f6170ebfacf374b13e26f66138dbeef9e9ad4",
+      "type": "release",
+      "url": "{MOJANG}/551f6170ebfacf374b13e26f66138dbeef9e9ad4/1.20.json"
+    },
+    {
+      "id": "1.20-rc1",
+      "releaseTime": "2023-05-31T12:33:33+00:00",
+      "sha1": "e89b90f54346a7ab62974eabc8b95797451fbd40",
+      "type": "snapshot",
+      "url": "{MOJANG}/e89b90f54346a7ab62974eabc8b95797451fbd40/1.20-rc1.json"
+    },
+    {
+      "id": "1.20-pre7",
+      "releaseTime": "2023-05-29T13:44:34+00:00",
+      "sha1": "143267b5eb9245055f67b580e869d7d052fea0c5",
+      "type": "snapshot",
+      "url": "{MOJANG}/143267b5eb9245055f67b580e869d7d052fea0c5/1.20-pre7.json"
+    },
+    {
+      "id": "1.20-pre6",
+      "releaseTime": "2023-05-25T12:22:00+00:00",
+      "sha1": "601e29bab03fe69ebaf4f5e1f8d1e09367736fdf",
+      "type": "snapshot",
+      "url": "{MOJANG}/601e29bab03fe69ebaf4f5e1f8d1e09367736fdf/1.20-pre6.json"
+    },
+    {
+      "id": "1.20-pre5",
+      "releaseTime": "2023-05-23T12:22:52+00:00",
+      "sha1": "3bb2c352fa75fcf8ba6267aa87ff4c0c8daff013",
+      "type": "snapshot",
+      "url": "{MOJANG}/3bb2c352fa75fcf8ba6267aa87ff4c0c8daff013/1.20-pre5.json"
+    },
+    {
+      "id": "1.20-pre4",
+      "releaseTime": "2023-05-19T13:13:45+00:00",
+      "sha1": "4dc5739650cc59d361b66efb8ef1d027b93f2491",
+      "type": "snapshot",
+      "url": "{MOJANG}/4dc5739650cc59d361b66efb8ef1d027b93f2491/1.20-pre4.json"
+    },
+    {
+      "id": "1.20-pre3",
+      "releaseTime": "2023-05-19T11:39:46+00:00",
+      "sha1": "790748297546ec2a8d41493c478ac65a11466142",
+      "type": "snapshot",
+      "url": "{MOJANG}/790748297546ec2a8d41493c478ac65a11466142/1.20-pre3.json"
+    },
+    {
+      "id": "1.20-pre2",
+      "releaseTime": "2023-05-16T11:34:54+00:00",
+      "sha1": "ed328498472baf51c280d3eae749418e1b49aeae",
+      "type": "snapshot",
+      "url": "{MOJANG}/ed328498472baf51c280d3eae749418e1b49aeae/1.20-pre2.json"
+    },
+    {
+      "id": "1.20-pre1",
+      "releaseTime": "2023-05-10T12:19:34+00:00",
+      "sha1": "4b3e52ad583c7ee969c9d65b1d8bb5be9c5757d1",
+      "type": "snapshot",
+      "url": "{MOJANG}/4b3e52ad583c7ee969c9d65b1d8bb5be9c5757d1/1.20-pre1.json"
+    },
+    {
+      "id": "23w18a",
+      "releaseTime": "2023-05-03T11:29:26+00:00",
+      "sha1": "0fca05ac9ae3c8b7adf1717a2ad67d1c59bdf33a",
+      "type": "snapshot",
+      "url": "{MOJANG}/0fca05ac9ae3c8b7adf1717a2ad67d1c59bdf33a/23w18a.json"
+    },
+    {
+      "id": "23w17a",
+      "releaseTime": "2023-04-26T12:09:48+00:00",
+      "sha1": "c294ddb371901ccfd2f213a06cc45f102cbec6ec",
+      "type": "snapshot",
+      "url": "{MOJANG}/c294ddb371901ccfd2f213a06cc45f102cbec6ec/23w17a.json"
+    },
+    {
+      "id": "23w16a",
+      "releaseTime": "2023-04-20T11:55:19+00:00",
+      "sha1": "600148eacf4e1b66adb18d3ae50cee995d4c15a8",
+      "type": "snapshot",
+      "url": "{MOJANG}/600148eacf4e1b66adb18d3ae50cee995d4c15a8/23w16a.json"
+    },
+    {
+      "id": "23w14a",
+      "releaseTime": "2023-04-05T12:05:17+00:00",
+      "sha1": "66e97d1a6f1b83cb91f5b3979aa9ee0bdad4b6bb",
+      "type": "snapshot",
+      "url": "{MOJANG}/66e97d1a6f1b83cb91f5b3979aa9ee0bdad4b6bb/23w14a.json"
+    },
+    {
+      "id": "23w13a_or_b",
+      "releaseTime": "2023-04-01T12:52:18+00:00",
+      "sha1": "df3edfc934d00d21b26850bdb162595df9852a35",
+      "type": "snapshot",
+      "url": "{MOJANG}/df3edfc934d00d21b26850bdb162595df9852a35/23w13a_or_b.json"
+    },
+    {
+      "id": "23w13a_or_b_original",
+      "releaseTime": "2023-04-01T12:00:18+00:00",
+      "sha1": "0a776ef65ee85cf341ee4afb267658cc09f53f68",
+      "type": "snapshot",
+      "url": "{MOJANG}/0a776ef65ee85cf341ee4afb267658cc09f53f68/23w13a_or_b.json"
+    },
+    {
+      "id": "23w13a",
+      "releaseTime": "2023-03-29T13:54:16+00:00",
+      "sha1": "dae870361b050c5e8607f2c8ed400a8d05fd74c9",
+      "type": "snapshot",
+      "url": "{MOJANG}/dae870361b050c5e8607f2c8ed400a8d05fd74c9/23w13a.json"
+    },
+    {
+      "id": "23w12a",
+      "releaseTime": "2023-03-22T13:28:42+00:00",
+      "sha1": "71e8f862e973b983a719a068da5e64c8a11c8180",
+      "type": "snapshot",
+      "url": "{MOJANG}/71e8f862e973b983a719a068da5e64c8a11c8180/23w12a.json"
+    },
+    {
+      "id": "1.19.4",
+      "releaseTime": "2023-03-14T12:56:18+00:00",
+      "sha1": "d840477f541f324365b5cd87661b329846d64185",
+      "type": "release",
+      "url": "{MOJANG}/d840477f541f324365b5cd87661b329846d64185/1.19.4.json"
+    },
+    {
+      "id": "1.19.4-rc3",
+      "releaseTime": "2023-03-13T10:03:11+00:00",
+      "sha1": "b0acd1b30b7134c1bc8bd29fd97d3d35c3f52817",
+      "type": "snapshot",
+      "url": "{MOJANG}/b0acd1b30b7134c1bc8bd29fd97d3d35c3f52817/1.19.4-rc3.json"
+    },
+    {
+      "id": "1.19.4-rc2",
+      "releaseTime": "2023-03-10T12:42:54+00:00",
+      "sha1": "2b1ed8ae090fc43775d4c8fd0437fe412a2a9669",
+      "type": "snapshot",
+      "url": "{MOJANG}/2b1ed8ae090fc43775d4c8fd0437fe412a2a9669/1.19.4-rc2.json"
+    },
+    {
+      "id": "1.19.4-rc1",
+      "releaseTime": "2023-03-09T14:35:50+00:00",
+      "sha1": "94b94c51415f897acfb0ad4d8ce0e72c6c29096e",
+      "type": "snapshot",
+      "url": "{MOJANG}/94b94c51415f897acfb0ad4d8ce0e72c6c29096e/1.19.4-rc1.json"
+    },
+    {
+      "id": "1.19.4-pre4",
+      "releaseTime": "2023-03-08T13:08:22+00:00",
+      "sha1": "9174b998f3c22c082503653786217e861256085b",
+      "type": "snapshot",
+      "url": "{MOJANG}/9174b998f3c22c082503653786217e861256085b/1.19.4-pre4.json"
+    },
+    {
+      "id": "1.19.4-pre3",
+      "releaseTime": "2023-03-01T14:11:05+00:00",
+      "sha1": "68eda4ed6889487a4081ff5800ab810a2343c0fe",
+      "type": "snapshot",
+      "url": "{MOJANG}/68eda4ed6889487a4081ff5800ab810a2343c0fe/1.19.4-pre3.json"
+    },
+    {
+      "id": "1.19.4-pre2",
+      "releaseTime": "2023-02-27T13:38:53+00:00",
+      "sha1": "da85140d741569c54b0301b27219b841b01c2e5d",
+      "type": "snapshot",
+      "url": "{MOJANG}/da85140d741569c54b0301b27219b841b01c2e5d/1.19.4-pre2.json"
+    },
+    {
+      "id": "1.19.4-pre1",
+      "releaseTime": "2023-02-22T16:00:34+00:00",
+      "sha1": "291c1a8bebe096510d5e717bbe4b92c18c151c11",
+      "type": "snapshot",
+      "url": "{MOJANG}/291c1a8bebe096510d5e717bbe4b92c18c151c11/1.19.4-pre1.json"
+    },
+    {
+      "id": "23w07a",
+      "releaseTime": "2023-02-15T14:32:29+00:00",
+      "sha1": "5b85474b05418045843fecda376aa0e11a56bbf6",
+      "type": "snapshot",
+      "url": "{MOJANG}/5b85474b05418045843fecda376aa0e11a56bbf6/23w07a.json"
+    },
+    {
+      "id": "23w06a",
+      "releaseTime": "2023-02-08T15:00:04+00:00",
+      "sha1": "ae7aa55d2bc7ccfba8d39d26a6637f6eb37c8bcf",
+      "type": "snapshot",
+      "url": "{MOJANG}/ae7aa55d2bc7ccfba8d39d26a6637f6eb37c8bcf/23w06a.json"
+    },
+    {
+      "id": "23w05a",
+      "releaseTime": "2023-02-01T14:20:33+00:00",
+      "sha1": "639c181d0521272de96176792ca00b0e85da9e5b",
+      "type": "snapshot",
+      "url": "{MOJANG}/639c181d0521272de96176792ca00b0e85da9e5b/23w05a.json"
+    },
+    {
+      "id": "23w04a",
+      "releaseTime": "2023-01-24T15:19:06+00:00",
+      "sha1": "0e4c9caf6b619bcdb99d8ea41712e23af00977b0",
+      "type": "snapshot",
+      "url": "{MOJANG}/0e4c9caf6b619bcdb99d8ea41712e23af00977b0/23w04a.json"
+    },
+    {
+      "id": "23w03a",
+      "releaseTime": "2023-01-18T13:10:31+00:00",
+      "sha1": "7813acb7d2116f071ca8f4ff805e5acc654cda54",
+      "type": "snapshot",
+      "url": "{MOJANG}/7813acb7d2116f071ca8f4ff805e5acc654cda54/23w03a.json"
+    },
+    {
+      "id": "1.19.3",
+      "releaseTime": "2022-12-07T08:17:18+00:00",
+      "sha1": "d1f784be7521d8fd2c808cf826e98057690c51e4",
+      "type": "release",
+      "url": "{MOJANG}/d1f784be7521d8fd2c808cf826e98057690c51e4/1.19.3.json"
+    },
+    {
+      "id": "1.19.3-rc3",
+      "releaseTime": "2022-12-06T10:24:01+00:00",
+      "sha1": "4c4bf7b24d8de618c8f5604c15f4f924f6bad62e",
+      "type": "snapshot",
+      "url": "{MOJANG}/4c4bf7b24d8de618c8f5604c15f4f924f6bad62e/1.19.3-rc3.json"
+    },
+    {
+      "id": "1.19.3-rc2",
+      "releaseTime": "2022-12-05T13:21:34+00:00",
+      "sha1": "35ebbfe290016320a730f45055968c264e3e1893",
+      "type": "snapshot",
+      "url": "{MOJANG}/35ebbfe290016320a730f45055968c264e3e1893/1.19.3-rc2.json"
+    },
+    {
+      "id": "1.19.3-rc1",
+      "releaseTime": "2022-12-01T13:45:18+00:00",
+      "sha1": "6c7da2ffeb2a4c0fde193bf7ac83b1b5d9d7e0a9",
+      "type": "snapshot",
+      "url": "{MOJANG}/6c7da2ffeb2a4c0fde193bf7ac83b1b5d9d7e0a9/1.19.3-rc1.json"
+    },
+    {
+      "id": "1.19.3-pre3",
+      "releaseTime": "2022-11-29T14:28:08+00:00",
+      "sha1": "d5e73a45ec9464a94f899be9b75a27806e1dcf72",
+      "type": "snapshot",
+      "url": "{MOJANG}/d5e73a45ec9464a94f899be9b75a27806e1dcf72/1.19.3-pre3.json"
+    },
+    {
+      "id": "1.19.3-pre2",
+      "releaseTime": "2022-11-23T16:12:25+00:00",
+      "sha1": "fcbffcafd954e1c48bd164e539af014c4f084d31",
+      "type": "snapshot",
+      "url": "{MOJANG}/fcbffcafd954e1c48bd164e539af014c4f084d31/1.19.3-pre2.json"
+    },
+    {
+      "id": "1.19.3-pre1",
+      "releaseTime": "2022-11-22T13:59:37+00:00",
+      "sha1": "25f05297f97fdc8682e59e1e40c30d2169bff6e1",
+      "type": "snapshot",
+      "url": "{MOJANG}/25f05297f97fdc8682e59e1e40c30d2169bff6e1/1.19.3-pre1.json"
+    },
+    {
+      "id": "22w46a",
+      "releaseTime": "2022-11-16T13:32:50+00:00",
+      "sha1": "c384025841ea6403b087db82af8e87cf2cf9720a",
+      "type": "snapshot",
+      "url": "{MOJANG}/c384025841ea6403b087db82af8e87cf2cf9720a/22w46a.json"
+    },
+    {
+      "id": "22w45a",
+      "releaseTime": "2022-11-09T14:30:16+00:00",
+      "sha1": "56d41c56f141739f276c429ef0c933fc302fceb8",
+      "type": "snapshot",
+      "url": "{MOJANG}/56d41c56f141739f276c429ef0c933fc302fceb8/22w45a.json"
+    },
+    {
+      "id": "22w44a",
+      "releaseTime": "2022-11-02T13:15:43+00:00",
+      "sha1": "8f87c2555f14218f9d3ea1c2ea3fa97fa5ab8100",
+      "type": "snapshot",
+      "url": "{MOJANG}/8f87c2555f14218f9d3ea1c2ea3fa97fa5ab8100/22w44a.json"
+    },
+    {
+      "id": "22w43a",
+      "releaseTime": "2022-10-26T11:55:59+00:00",
+      "sha1": "4dbee4f06f1fbce201748ee8ff0d7b60e2228f94",
+      "type": "snapshot",
+      "url": "{MOJANG}/4dbee4f06f1fbce201748ee8ff0d7b60e2228f94/22w43a.json"
+    },
+    {
+      "id": "22w42a",
+      "releaseTime": "2022-10-19T09:34:22+00:00",
+      "sha1": "1f9de2f02a173398232d15a826d3860187e15ac0",
+      "type": "snapshot",
+      "url": "{MOJANG}/1f9de2f02a173398232d15a826d3860187e15ac0/22w42a.json"
+    },
+    {
+      "id": "1.19.2",
+      "releaseTime": "2022-08-05T11:57:05+00:00",
+      "sha1": "598389e15a342ac836978501f7700155aeea24ec",
+      "type": "release",
+      "url": "{MOJANG}/598389e15a342ac836978501f7700155aeea24ec/1.19.2.json"
+    },
+    {
+      "id": "1.19.2-rc2",
+      "releaseTime": "2022-08-04T15:19:44+00:00",
+      "sha1": "6fcf7e0d1e3f9c56b3c1ada2c935a85184e35736",
+      "type": "snapshot",
+      "url": "{MOJANG}/6fcf7e0d1e3f9c56b3c1ada2c935a85184e35736/1.19.2-rc2.json"
+    },
+    {
+      "id": "1.19.2-rc1",
+      "releaseTime": "2022-08-04T10:07:26+00:00",
+      "sha1": "0bdc5aff56b83d59978514b114e00a23215afb01",
+      "type": "snapshot",
+      "url": "{MOJANG}/0bdc5aff56b83d59978514b114e00a23215afb01/1.19.2-rc1.json"
+    },
+    {
+      "id": "1.19.1",
+      "releaseTime": "2022-07-27T09:25:33+00:00",
+      "sha1": "934fd0e4a8fac553c56df7a5f6bb11baf3bbca54",
+      "type": "release",
+      "url": "{MOJANG}/934fd0e4a8fac553c56df7a5f6bb11baf3bbca54/1.19.1.json"
+    },
+    {
+      "id": "1.19.1-rc3",
+      "releaseTime": "2022-07-26T15:34:35+00:00",
+      "sha1": "ec5bba57d2008b477008cecbb652b228e79b47cb",
+      "type": "snapshot",
+      "url": "{MOJANG}/ec5bba57d2008b477008cecbb652b228e79b47cb/1.19.1-rc3.json"
+    },
+    {
+      "id": "1.19.1-rc2",
+      "releaseTime": "2022-07-21T16:25:50+00:00",
+      "sha1": "0198d28b3d7820ec701493e5135852793b54753d",
+      "type": "snapshot",
+      "url": "{MOJANG}/0198d28b3d7820ec701493e5135852793b54753d/1.19.1-rc2.json"
+    },
+    {
+      "id": "1.19.1-pre6",
+      "releaseTime": "2022-07-20T15:49:31+00:00",
+      "sha1": "e897e9716a3f86f57502900bddd364f07d8ae2e0",
+      "type": "snapshot",
+      "url": "{MOJANG}/e897e9716a3f86f57502900bddd364f07d8ae2e0/1.19.1-pre6.json"
+    },
+    {
+      "id": "1.19.1-pre5",
+      "releaseTime": "2022-07-15T11:51:44+00:00",
+      "sha1": "56c5b9fa63a26b004b498eb50133ddeec1c4ab07",
+      "type": "snapshot",
+      "url": "{MOJANG}/56c5b9fa63a26b004b498eb50133ddeec1c4ab07/1.19.1-pre5.json"
+    },
+    {
+      "id": "1.19.1-pre4",
+      "releaseTime": "2022-07-08T11:41:59+00:00",
+      "sha1": "1d00fad9dd202bc24eac1d28db00a088ab0ba372",
+      "type": "snapshot",
+      "url": "{MOJANG}/1d00fad9dd202bc24eac1d28db00a088ab0ba372/1.19.1-pre4.json"
+    },
+    {
+      "id": "1.19.1-pre3",
+      "releaseTime": "2022-07-06T14:50:46+00:00",
+      "sha1": "6d61d32e2e3a76b700a1e5121afbac32a0b5616e",
+      "type": "snapshot",
+      "url": "{MOJANG}/6d61d32e2e3a76b700a1e5121afbac32a0b5616e/1.19.1-pre3.json"
+    },
+    {
+      "id": "1.19.1-pre2",
+      "releaseTime": "2022-06-30T15:57:20+00:00",
+      "sha1": "e9e72278ffa42ff2f1ff73f6e88c655379a24ed8",
+      "type": "snapshot",
+      "url": "{MOJANG}/e9e72278ffa42ff2f1ff73f6e88c655379a24ed8/1.19.1-pre2.json"
+    },
+    {
+      "id": "1.19.1-rc1",
+      "releaseTime": "2022-06-23T16:32:41+00:00",
+      "sha1": "a06d40bdb30a9485b6add79fd41d2edb8300c82e",
+      "type": "snapshot",
+      "url": "{MOJANG}/a06d40bdb30a9485b6add79fd41d2edb8300c82e/1.19.1-rc1.json"
+    },
+    {
+      "id": "1.19.1-pre1",
+      "releaseTime": "2022-06-21T17:13:59+00:00",
+      "sha1": "835e8c83506f9788a06915557d4776cbc4361e50",
+      "type": "snapshot",
+      "url": "{MOJANG}/835e8c83506f9788a06915557d4776cbc4361e50/1.19.1-pre1.json"
+    },
+    {
+      "id": "22w24a",
+      "releaseTime": "2022-06-15T16:21:49+00:00",
+      "sha1": "9c8ebfc57960b0f97d62abf0e86b2d2fab57bc67",
+      "type": "snapshot",
+      "url": "{MOJANG}/9c8ebfc57960b0f97d62abf0e86b2d2fab57bc67/22w24a.json"
+    },
+    {
+      "id": "1.19",
+      "releaseTime": "2022-06-07T09:42:18+00:00",
+      "sha1": "2d75a4e878ba4294ea7a1ad931a5f508f4b0073b",
+      "type": "release",
+      "url": "{MOJANG}/2d75a4e878ba4294ea7a1ad931a5f508f4b0073b/1.19.json"
+    },
+    {
+      "id": "1.19-rc2",
+      "releaseTime": "2022-06-03T11:47:25+00:00",
+      "sha1": "efeabd1630f04cbdade4501efaeb0abad7e95786",
+      "type": "snapshot",
+      "url": "{MOJANG}/efeabd1630f04cbdade4501efaeb0abad7e95786/1.19-rc2.json"
+    },
+    {
+      "id": "1.19-rc1",
+      "releaseTime": "2022-06-02T12:12:52+00:00",
+      "sha1": "bf5a966eaf023714383f19895756748a2cb63641",
+      "type": "snapshot",
+      "url": "{MOJANG}/bf5a966eaf023714383f19895756748a2cb63641/1.19-rc1.json"
+    },
+    {
+      "id": "1.19-pre5",
+      "releaseTime": "2022-06-01T10:56:23+00:00",
+      "sha1": "01e86b94d221cb9272d58783f68a99a2e781d370",
+      "type": "snapshot",
+      "url": "{MOJANG}/01e86b94d221cb9272d58783f68a99a2e781d370/1.19-pre5.json"
+    },
+    {
+      "id": "1.19-pre4",
+      "releaseTime": "2022-05-30T14:43:01+00:00",
+      "sha1": "71a04b5a71c1d66404bac6ee11cd1bbb7f29e0f5",
+      "type": "snapshot",
+      "url": "{MOJANG}/71a04b5a71c1d66404bac6ee11cd1bbb7f29e0f5/1.19-pre4.json"
+    },
+    {
+      "id": "1.19-pre3",
+      "releaseTime": "2022-05-25T09:56:47+00:00",
+      "sha1": "b76440f4d00d9dd8b948ff82a5701f62a537f6ab",
+      "type": "snapshot",
+      "url": "{MOJANG}/b76440f4d00d9dd8b948ff82a5701f62a537f6ab/1.19-pre3.json"
+    },
+    {
+      "id": "1.19-pre2",
+      "releaseTime": "2022-05-23T14:54:00+00:00",
+      "sha1": "63617a0184981e220e76de7b2cb9f650f9d852c6",
+      "type": "snapshot",
+      "url": "{MOJANG}/63617a0184981e220e76de7b2cb9f650f9d852c6/1.19-pre2.json"
+    },
+    {
+      "id": "1.19-pre1",
+      "releaseTime": "2022-05-18T13:51:54+00:00",
+      "sha1": "9abe60b36ba52856ba4fac5932ae20a6e03604bb",
+      "type": "snapshot",
+      "url": "{MOJANG}/9abe60b36ba52856ba4fac5932ae20a6e03604bb/1.19-pre1.json"
+    },
+    {
+      "id": "22w19a",
+      "releaseTime": "2022-05-12T15:36:11+00:00",
+      "sha1": "ab88b86374d0cbcb5822710f2ed1eddb834f82d9",
+      "type": "snapshot",
+      "url": "{MOJANG}/ab88b86374d0cbcb5822710f2ed1eddb834f82d9/22w19a.json"
+    },
+    {
+      "id": "22w18a",
+      "releaseTime": "2022-05-04T14:41:35+00:00",
+      "sha1": "7bff32be874c4472f7d39ede3d7407433d017722",
+      "type": "snapshot",
+      "url": "{MOJANG}/7bff32be874c4472f7d39ede3d7407433d017722/22w18a.json"
+    },
+    {
+      "id": "22w17a",
+      "releaseTime": "2022-04-27T15:54:15+00:00",
+      "sha1": "2e7214f6d5777b63248c914103b3db3351870bd4",
+      "type": "snapshot",
+      "url": "{MOJANG}/2e7214f6d5777b63248c914103b3db3351870bd4/22w17a.json"
+    },
+    {
+      "id": "22w16b",
+      "releaseTime": "2022-04-20T17:25:32+00:00",
+      "sha1": "d7aba3be8fe8bf41df27d2a677e565b39d5ae34e",
+      "type": "snapshot",
+      "url": "{MOJANG}/d7aba3be8fe8bf41df27d2a677e565b39d5ae34e/22w16b.json"
+    },
+    {
+      "id": "22w16a",
+      "releaseTime": "2022-04-20T14:37:07+00:00",
+      "sha1": "26d168cb27b3300b9ff82eca48e7f831eee9fc55",
+      "type": "snapshot",
+      "url": "{MOJANG}/26d168cb27b3300b9ff82eca48e7f831eee9fc55/22w16a.json"
+    },
+    {
+      "id": "22w15a",
+      "releaseTime": "2022-04-13T15:41:17+00:00",
+      "sha1": "cec34b7c6336773bbfe47b66e51b3f8b2c950447",
+      "type": "snapshot",
+      "url": "{MOJANG}/cec34b7c6336773bbfe47b66e51b3f8b2c950447/22w15a.json"
+    },
+    {
+      "id": "22w14a",
+      "releaseTime": "2022-04-06T13:37:12+00:00",
+      "sha1": "5d909e59acfbba71134f935d809cede5086ce159",
+      "type": "snapshot",
+      "url": "{MOJANG}/5d909e59acfbba71134f935d809cede5086ce159/22w14a.json"
+    },
+    {
+      "id": "22w13oneblockatatime",
+      "releaseTime": "2022-04-01T11:56:58+00:00",
+      "sha1": "f94d05420f7c42a3a29c34c43bc148862dafdc36",
+      "type": "snapshot",
+      "url": "{MOJANG}/f94d05420f7c42a3a29c34c43bc148862dafdc36/22w13oneblockatatime.json"
+    },
+    {
+      "id": "22w13a",
+      "releaseTime": "2022-03-31T14:53:25+00:00",
+      "sha1": "f72840cd32829f77b114bf7ace991f29608e4bfa",
+      "type": "snapshot",
+      "url": "{MOJANG}/f72840cd32829f77b114bf7ace991f29608e4bfa/22w13a.json"
+    },
+    {
+      "id": "22w12a",
+      "releaseTime": "2022-03-24T16:15:02+00:00",
+      "sha1": "daf286d1053e0fa927c2ac548d676b513e93ee8c",
+      "type": "snapshot",
+      "url": "{MOJANG}/daf286d1053e0fa927c2ac548d676b513e93ee8c/22w12a.json"
+    },
+    {
+      "id": "22w11a",
+      "releaseTime": "2022-03-16T15:55:38+00:00",
+      "sha1": "77bcd699764ed4d0b13fcc775a2ce765a022e83f",
+      "type": "snapshot",
+      "url": "{MOJANG}/77bcd699764ed4d0b13fcc775a2ce765a022e83f/22w11a.json"
+    },
+    {
+      "id": "1.18.2",
+      "releaseTime": "2022-02-28T10:42:45+00:00",
+      "sha1": "23b6e0e0d0f87da36075a4290cd98df1a76e2415",
+      "type": "release",
+      "url": "{MOJANG}/23b6e0e0d0f87da36075a4290cd98df1a76e2415/1.18.2.json"
+    },
+    {
+      "id": "1.18.2-rc1",
+      "releaseTime": "2022-02-25T13:25:40+00:00",
+      "sha1": "04d0d1e9b1f46b904dbbe10d2aa629232b104e3e",
+      "type": "snapshot",
+      "url": "{MOJANG}/04d0d1e9b1f46b904dbbe10d2aa629232b104e3e/1.18.2-rc1.json"
+    },
+    {
+      "id": "1.18.2-pre3",
+      "releaseTime": "2022-02-23T15:23:12+00:00",
+      "sha1": "ecc76e608a0f8ccacb58324762a6201e912010ff",
+      "type": "snapshot",
+      "url": "{MOJANG}/ecc76e608a0f8ccacb58324762a6201e912010ff/1.18.2-pre3.json"
+    },
+    {
+      "id": "1.18.2-pre2",
+      "releaseTime": "2022-02-21T15:26:19+00:00",
+      "sha1": "51e018a95c51eb335cc0e425b70179af6fa96ce4",
+      "type": "snapshot",
+      "url": "{MOJANG}/51e018a95c51eb335cc0e425b70179af6fa96ce4/1.18.2-pre2.json"
+    },
+    {
+      "id": "1.18.2-pre1",
+      "releaseTime": "2022-02-18T16:00:32+00:00",
+      "sha1": "081702b870ff53328de8a838992d81b88ea40907",
+      "type": "snapshot",
+      "url": "{MOJANG}/081702b870ff53328de8a838992d81b88ea40907/1.18.2-pre1.json"
+    },
+    {
+      "id": "1.19_deep_dark_experimental_snapshot-1",
+      "releaseTime": "2022-02-17T12:00:00+00:00",
+      "sha1": "d8365b79e5faf36f81de48c84cb43de49c12c4f0",
+      "type": "snapshot",
+      "url": "{ATLAS_RESOURCES}/1.19_deep_dark_experimental_snapshot-1.json"
+    },
+    {
+      "id": "22w07a",
+      "releaseTime": "2022-02-16T16:13:58+00:00",
+      "sha1": "816201dcefada6d185620f0e56507f00d666bbfa",
+      "type": "snapshot",
+      "url": "{MOJANG}/816201dcefada6d185620f0e56507f00d666bbfa/22w07a.json"
+    },
+    {
+      "id": "22w06a",
+      "releaseTime": "2022-02-09T16:47:48+00:00",
+      "sha1": "e8e75829ead3d6dd246c31976f91d4976e1f2402",
+      "type": "snapshot",
+      "url": "{MOJANG}/e8e75829ead3d6dd246c31976f91d4976e1f2402/22w06a.json"
+    },
+    {
+      "id": "22w05a",
+      "releaseTime": "2022-02-02T16:08:39+00:00",
+      "sha1": "a4088ba532aff354d9435ad0e0d93bd1f0abb1e8",
+      "type": "snapshot",
+      "url": "{MOJANG}/a4088ba532aff354d9435ad0e0d93bd1f0abb1e8/22w05a.json"
+    },
+    {
+      "id": "22w03a",
+      "releaseTime": "2022-01-19T16:04:59+00:00",
+      "sha1": "b5a2c75230d132ae2e61d9a6088506204ef829f7",
+      "type": "snapshot",
+      "url": "{MOJANG}/b5a2c75230d132ae2e61d9a6088506204ef829f7/22w03a.json"
+    },
+    {
+      "id": "1.18.1",
+      "releaseTime": "2021-12-10T08:23:00+00:00",
+      "sha1": "989549ecba162cba2ec066e19a2f0364586f18bf",
+      "type": "release",
+      "url": "{MOJANG}/989549ecba162cba2ec066e19a2f0364586f18bf/1.18.1.json"
+    },
+    {
+      "id": "1.18.1-rc3",
+      "releaseTime": "2021-12-10T03:36:38+00:00",
+      "sha1": "373b0531c62011ea2ab1b42ba49f87a460d5edff",
+      "type": "snapshot",
+      "url": "{MOJANG}/373b0531c62011ea2ab1b42ba49f87a460d5edff/1.18.1-rc3.json"
+    },
+    {
+      "id": "1.18.1-rc2",
+      "releaseTime": "2021-12-08T12:29:36+00:00",
+      "sha1": "42fe8387afaed32ba28598bfecac7fc14df928a7",
+      "type": "snapshot",
+      "url": "{MOJANG}/42fe8387afaed32ba28598bfecac7fc14df928a7/1.18.1-rc2.json"
+    },
+    {
+      "id": "1.18.1-rc1",
+      "releaseTime": "2021-12-07T15:52:47+00:00",
+      "sha1": "cb80a28590126e508b7ce0211c40a947efa808f6",
+      "type": "snapshot",
+      "url": "{MOJANG}/cb80a28590126e508b7ce0211c40a947efa808f6/1.18.1-rc1.json"
+    },
+    {
+      "id": "1.18.1-pre1",
+      "releaseTime": "2021-12-03T13:45:38+00:00",
+      "sha1": "3982dfbe153e0bd2e45ff7c7828b38385daa77a5",
+      "type": "snapshot",
+      "url": "{MOJANG}/3982dfbe153e0bd2e45ff7c7828b38385daa77a5/1.18.1-pre1.json"
+    },
+    {
+      "id": "1.18",
+      "releaseTime": "2021-11-30T09:16:29+00:00",
+      "sha1": "2a5ba362c7743d19c474faa9ba3595d9bc41fa02",
+      "type": "release",
+      "url": "{MOJANG}/2a5ba362c7743d19c474faa9ba3595d9bc41fa02/1.18.json"
+    },
+    {
+      "id": "1.18-rc4",
+      "releaseTime": "2021-11-29T13:43:42+00:00",
+      "sha1": "e0eebc7178fc96b9e4ff84ac9b1a47a2b276a067",
+      "type": "snapshot",
+      "url": "{MOJANG}/e0eebc7178fc96b9e4ff84ac9b1a47a2b276a067/1.18-rc4.json"
+    },
+    {
+      "id": "1.18-rc3",
+      "releaseTime": "2021-11-26T15:51:56+00:00",
+      "sha1": "2cb6fc426a0cc3d62fb844126d908f9d20519690",
+      "type": "snapshot",
+      "url": "{MOJANG}/2cb6fc426a0cc3d62fb844126d908f9d20519690/1.18-rc3.json"
+    },
+    {
+      "id": "1.18-rc2",
+      "releaseTime": "2021-11-26T10:02:04+00:00",
+      "sha1": "44aeb45a977f9ddb9450e34a37e04caa0591e662",
+      "type": "snapshot",
+      "url": "{MOJANG}/44aeb45a977f9ddb9450e34a37e04caa0591e662/1.18-rc2.json"
+    },
+    {
+      "id": "1.18-rc1",
+      "releaseTime": "2021-11-25T14:28:49+00:00",
+      "sha1": "3dd8097afc4220d5b7b0966ee50c6aa97ecebae1",
+      "type": "snapshot",
+      "url": "{MOJANG}/3dd8097afc4220d5b7b0966ee50c6aa97ecebae1/1.18-rc1.json"
+    },
+    {
+      "id": "1.18-pre8",
+      "releaseTime": "2021-11-24T14:57:32+00:00",
+      "sha1": "3b966017f2ebdfb5c72fe1449732558af8f815aa",
+      "type": "snapshot",
+      "url": "{MOJANG}/3b966017f2ebdfb5c72fe1449732558af8f815aa/1.18-pre8.json"
+    },
+    {
+      "id": "1.18-pre7",
+      "releaseTime": "2021-11-23T16:37:41+00:00",
+      "sha1": "bd769b95bab9c40914e316f2d645858e2cdfa07b",
+      "type": "snapshot",
+      "url": "{MOJANG}/bd769b95bab9c40914e316f2d645858e2cdfa07b/1.18-pre7.json"
+    },
+    {
+      "id": "1.18-pre6",
+      "releaseTime": "2021-11-22T17:09:05+00:00",
+      "sha1": "45e29a5a739403b46b47cfdf7b485179f7bf2d5a",
+      "type": "snapshot",
+      "url": "{MOJANG}/45e29a5a739403b46b47cfdf7b485179f7bf2d5a/1.18-pre6.json"
+    },
+    {
+      "id": "1.18-pre5",
+      "releaseTime": "2021-11-19T15:47:09+00:00",
+      "sha1": "8c59a40d41e05c53c321b7454905ed27a409f539",
+      "type": "snapshot",
+      "url": "{MOJANG}/8c59a40d41e05c53c321b7454905ed27a409f539/1.18-pre5.json"
+    },
+    {
+      "id": "1.18-pre4",
+      "releaseTime": "2021-11-17T18:07:56+00:00",
+      "sha1": "6dbbac05fd0088c5ab3db2411d49d2408e39d72f",
+      "type": "snapshot",
+      "url": "{MOJANG}/6dbbac05fd0088c5ab3db2411d49d2408e39d72f/1.18-pre4.json"
+    },
+    {
+      "id": "1.18-pre3",
+      "releaseTime": "2021-11-17T16:04:25+00:00",
+      "sha1": "433e3d1f0150c81b5764a7346d173c2b9ba4e688",
+      "type": "snapshot",
+      "url": "{MOJANG}/433e3d1f0150c81b5764a7346d173c2b9ba4e688/1.18-pre3.json"
+    },
+    {
+      "id": "1.18-pre2",
+      "releaseTime": "2021-11-16T17:04:48+00:00",
+      "sha1": "1179725d80c57492ef5ea265b38211e305037369",
+      "type": "snapshot",
+      "url": "{MOJANG}/1179725d80c57492ef5ea265b38211e305037369/1.18-pre2.json"
+    },
+    {
+      "id": "1.18-pre1",
+      "releaseTime": "2021-11-11T16:14:06+00:00",
+      "sha1": "13fb60db552bb290c36ca87dc9f8a227c4438386",
+      "type": "snapshot",
+      "url": "{MOJANG}/13fb60db552bb290c36ca87dc9f8a227c4438386/1.18-pre1.json"
+    },
+    {
+      "id": "21w44a",
+      "releaseTime": "2021-11-03T16:14:34+00:00",
+      "sha1": "a9509793df625c4735f96de3239d4df94ae5d914",
+      "type": "snapshot",
+      "url": "{MOJANG}/a9509793df625c4735f96de3239d4df94ae5d914/21w44a.json"
+    },
+    {
+      "id": "21w43a",
+      "releaseTime": "2021-10-27T14:38:55+00:00",
+      "sha1": "4790d021544c177d3d6d18cbdf500498770daad3",
+      "type": "snapshot",
+      "url": "{MOJANG}/4790d021544c177d3d6d18cbdf500498770daad3/21w43a.json"
+    },
+    {
+      "id": "21w42a",
+      "releaseTime": "2021-10-20T12:41:25+00:00",
+      "sha1": "766c139a3bf978f4f11efffc1a2283e3b990a063",
+      "type": "snapshot",
+      "url": "{MOJANG}/766c139a3bf978f4f11efffc1a2283e3b990a063/21w42a.json"
+    },
+    {
+      "id": "21w41a",
+      "releaseTime": "2021-10-13T15:23:23+00:00",
+      "sha1": "1c3476a8a4018d4e01b33f742c4ff2e219b92136",
+      "type": "snapshot",
+      "url": "{MOJANG}/1c3476a8a4018d4e01b33f742c4ff2e219b92136/21w41a.json"
+    },
+    {
+      "id": "21w40a",
+      "releaseTime": "2021-10-07T11:17:50+00:00",
+      "sha1": "76ed423e8fa780185343afb0bfc7cb048e785e79",
+      "type": "snapshot",
+      "url": "{MOJANG}/76ed423e8fa780185343afb0bfc7cb048e785e79/21w40a.json"
+    },
+    {
+      "id": "21w39a",
+      "releaseTime": "2021-09-29T16:27:05+00:00",
+      "sha1": "6a2d23d0e104b5df4c7efb42f6e2647e223ec329",
+      "type": "snapshot",
+      "url": "{MOJANG}/6a2d23d0e104b5df4c7efb42f6e2647e223ec329/21w39a.json"
+    },
+    {
+      "id": "21w38a",
+      "releaseTime": "2021-09-23T14:36:06+00:00",
+      "sha1": "75b1445a842995461114d1a0716eb3f55d150b00",
+      "type": "snapshot",
+      "url": "{MOJANG}/75b1445a842995461114d1a0716eb3f55d150b00/21w38a.json"
+    },
+    {
+      "id": "21w37a",
+      "releaseTime": "2021-09-15T16:04:30+00:00",
+      "sha1": "fd0b26610a49eb38af3fc8c1eca424cf05d108f6",
+      "type": "snapshot",
+      "url": "{MOJANG}/fd0b26610a49eb38af3fc8c1eca424cf05d108f6/21w37a.json"
+    },
+    {
+      "id": "1.18_experimental-snapshot-7",
+      "releaseTime": "2021-09-08T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "14611a3cefbf20d4f3650d77b96cb5fc34583b54",
+      "url": "{ATLAS_RESOURCES}/1.18_experimental-snapshot-7.json"
+    },
+    {
+      "id": "1.18_experimental-snapshot-6",
+      "releaseTime": "2021-09-01T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "6db9abc0add141e855ae8d5ff02cb3e6c77d4bf1",
+      "url": "{ATLAS_RESOURCES}/1.18_experimental-snapshot-6.json"
+    },
+    {
+      "id": "1.18_experimental-snapshot-5",
+      "releaseTime": "2021-08-25T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "6c72791d6d60416b59735ff49939532786ecd622",
+      "url": "{ATLAS_RESOURCES}/1.18_experimental-snapshot-5.json"
+    },
+    {
+      "id": "1.18_experimental-snapshot-4",
+      "releaseTime": "2021-08-17T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "47f19021e869e24f273d38610e46c6fa04639a44",
+      "url": "{ATLAS_RESOURCES}/1.18_experimental-snapshot-4.json"
+    },
+    {
+      "id": "1.18_experimental-snapshot-3",
+      "releaseTime": "2021-08-10T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "d03637684dfe3653e8d617e86f81fffb86d5d4c5",
+      "url": "{ATLAS_RESOURCES}/1.18_experimental-snapshot-3.json"
+    },
+    {
+      "id": "1.18_experimental-snapshot-2",
+      "releaseTime": "2021-07-20T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "a535296b2b992603fa9c51b07e4e7647cf80145e",
+      "url": "{ATLAS_RESOURCES}/1.18_experimental-snapshot-2.json"
+    },
+    {
+      "id": "1.18_experimental-snapshot-1",
+      "releaseTime": "2021-07-13T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "8c6436f0a28aeabfa9c761fb95578ba584b4872c",
+      "url": "{ATLAS_RESOURCES}/1.18_experimental-snapshot-1.json"
+    },
+    {
+      "id": "1.17.1",
+      "releaseTime": "2021-07-06T12:01:34+00:00",
+      "sha1": "a769e66272ae058c60c27a11b5adb04d7065884a",
+      "type": "release",
+      "url": "{MOJANG}/a769e66272ae058c60c27a11b5adb04d7065884a/1.17.1.json"
+    },
+    {
+      "id": "1.17.1-rc2",
+      "releaseTime": "2021-07-05T12:58:01+00:00",
+      "sha1": "82b5b1aa011ffd8e4843f0261f33cf7fa3a1ea65",
+      "type": "snapshot",
+      "url": "{MOJANG}/82b5b1aa011ffd8e4843f0261f33cf7fa3a1ea65/1.17.1-rc2.json"
+    },
+    {
+      "id": "1.17.1-rc1",
+      "releaseTime": "2021-07-01T15:23:37+00:00",
+      "sha1": "537405cef3f0dfc57275468e3e1aa4ed2578ef80",
+      "type": "snapshot",
+      "url": "{MOJANG}/537405cef3f0dfc57275468e3e1aa4ed2578ef80/1.17.1-rc1.json"
+    },
+    {
+      "id": "1.17.1-pre3",
+      "releaseTime": "2021-06-30T15:43:16+00:00",
+      "sha1": "be7f223eb5a6e60fb63bc7affd81905bf3ed3d37",
+      "type": "snapshot",
+      "url": "{MOJANG}/be7f223eb5a6e60fb63bc7affd81905bf3ed3d37/1.17.1-pre3.json"
+    },
+    {
+      "id": "1.17.1-pre2",
+      "releaseTime": "2021-06-29T15:14:12+00:00",
+      "sha1": "9db3da53e72d08571d5310a6ac21fa6cbd25ac1d",
+      "type": "snapshot",
+      "url": "{MOJANG}/9db3da53e72d08571d5310a6ac21fa6cbd25ac1d/1.17.1-pre2.json"
+    },
+    {
+      "id": "1.17.1-pre1",
+      "releaseTime": "2021-06-18T12:24:40+00:00",
+      "sha1": "9b4a96ebaad2373bd8ff1062f0482065293af40b",
+      "type": "snapshot",
+      "url": "{MOJANG}/9b4a96ebaad2373bd8ff1062f0482065293af40b/1.17.1-pre1.json"
+    },
+    {
+      "id": "1.17",
+      "releaseTime": "2021-06-08T11:00:40+00:00",
+      "sha1": "64b06c2837c64cc658d33f05a7d7ae14191fd47e",
+      "type": "release",
+      "url": "{MOJANG}/64b06c2837c64cc658d33f05a7d7ae14191fd47e/1.17.json"
+    },
+    {
+      "id": "1.17-rc2",
+      "releaseTime": "2021-06-07T11:46:28+00:00",
+      "sha1": "f4b7731d0987aa6b389fa3fee99bbc834bfe0a30",
+      "type": "snapshot",
+      "url": "{MOJANG}/f4b7731d0987aa6b389fa3fee99bbc834bfe0a30/1.17-rc2.json"
+    },
+    {
+      "id": "1.17-rc1",
+      "releaseTime": "2021-06-04T13:24:48+00:00",
+      "sha1": "76b86acdc7a9162e228ffbb93f70199c26d4e037",
+      "type": "snapshot",
+      "url": "{MOJANG}/76b86acdc7a9162e228ffbb93f70199c26d4e037/1.17-rc1.json"
+    },
+    {
+      "id": "1.17-pre5",
+      "releaseTime": "2021-06-03T17:01:28+00:00",
+      "sha1": "2e8e7e939bd1c55e7ff9b125e21c6ea25a11c2e0",
+      "type": "snapshot",
+      "url": "{MOJANG}/2e8e7e939bd1c55e7ff9b125e21c6ea25a11c2e0/1.17-pre5.json"
+    },
+    {
+      "id": "1.17-pre4",
+      "releaseTime": "2021-06-02T16:15:43+00:00",
+      "sha1": "a793118489874d50fe5df1ec3cb6cbde78535d33",
+      "type": "snapshot",
+      "url": "{MOJANG}/a793118489874d50fe5df1ec3cb6cbde78535d33/1.17-pre4.json"
+    },
+    {
+      "id": "1.17-pre3",
+      "releaseTime": "2021-06-01T15:43:46+00:00",
+      "sha1": "2178ae08d023cd27f427108b383c67ffd4bfb8d7",
+      "type": "snapshot",
+      "url": "{MOJANG}/2178ae08d023cd27f427108b383c67ffd4bfb8d7/1.17-pre3.json"
+    },
+    {
+      "id": "1.17-pre2",
+      "releaseTime": "2021-05-31T15:54:05+00:00",
+      "sha1": "7d3080125ea49e0f1bc4283fa5f9ac7737650220",
+      "type": "snapshot",
+      "url": "{MOJANG}/7d3080125ea49e0f1bc4283fa5f9ac7737650220/1.17-pre2.json"
+    },
+    {
+      "id": "1.17-pre1",
+      "releaseTime": "2021-05-27T09:39:21+00:00",
+      "sha1": "e95522481c142c41a1b2f3c30fa3dbbd35020992",
+      "type": "snapshot",
+      "url": "{MOJANG}/e95522481c142c41a1b2f3c30fa3dbbd35020992/1.17-pre1.json"
+    },
+    {
+      "id": "21w20a",
+      "releaseTime": "2021-05-19T15:22:02+00:00",
+      "sha1": "ecbda211fa62d8e972b15b2604425bf9882de4bc",
+      "type": "snapshot",
+      "url": "{MOJANG}/ecbda211fa62d8e972b15b2604425bf9882de4bc/21w20a.json"
+    },
+    {
+      "id": "21w19a",
+      "releaseTime": "2021-05-12T11:19:15+00:00",
+      "sha1": "749d7b651e5421443c8f4633295a663b343fff98",
+      "type": "snapshot",
+      "url": "{MOJANG}/749d7b651e5421443c8f4633295a663b343fff98/21w19a.json"
+    },
+    {
+      "id": "21w18a",
+      "releaseTime": "2021-05-05T15:24:35+00:00",
+      "sha1": "e9cad4bb27cc54eee549ca2777d3ee57fa72165f",
+      "type": "snapshot",
+      "url": "{MOJANG}/e9cad4bb27cc54eee549ca2777d3ee57fa72165f/21w18a.json"
+    },
+    {
+      "id": "21w17a",
+      "releaseTime": "2021-04-28T13:54:05+00:00",
+      "sha1": "5b001d645468cb41a3fa58c7c63e193a87ba6ef9",
+      "type": "snapshot",
+      "url": "{MOJANG}/5b001d645468cb41a3fa58c7c63e193a87ba6ef9/21w17a.json"
+    },
+    {
+      "id": "21w16a",
+      "releaseTime": "2021-04-21T16:41:14+00:00",
+      "sha1": "f29d548a02eaa94e91986433336373c01654427f",
+      "type": "snapshot",
+      "url": "{MOJANG}/f29d548a02eaa94e91986433336373c01654427f/21w16a.json"
+    },
+    {
+      "id": "21w15a",
+      "releaseTime": "2021-04-14T13:41:34+00:00",
+      "sha1": "fa5a175d64f06b7cb6d4cc6bed19554515bcc061",
+      "type": "snapshot",
+      "url": "{MOJANG}/fa5a175d64f06b7cb6d4cc6bed19554515bcc061/21w15a.json"
+    },
+    {
+      "id": "21w14a",
+      "releaseTime": "2021-04-07T14:04:09+00:00",
+      "sha1": "c26b96e42ffb24d56ba15a6bcdc9b9664ec01ae2",
+      "type": "snapshot",
+      "url": "{MOJANG}/c26b96e42ffb24d56ba15a6bcdc9b9664ec01ae2/21w14a.json"
+    },
+    {
+      "id": "21w13a",
+      "releaseTime": "2021-03-31T16:17:46+00:00",
+      "sha1": "6162315993762d0df359ba8b7949d282817238d5",
+      "type": "snapshot",
+      "url": "{MOJANG}/6162315993762d0df359ba8b7949d282817238d5/21w13a.json"
+    },
+    {
+      "id": "21w11a",
+      "releaseTime": "2021-03-17T15:05:50+00:00",
+      "sha1": "841d40809099b5e57aa3a7e5f955c999e1dfd440",
+      "type": "snapshot",
+      "url": "{MOJANG}/841d40809099b5e57aa3a7e5f955c999e1dfd440/21w11a.json"
+    },
+    {
+      "id": "21w10a",
+      "releaseTime": "2021-03-10T15:24:38+00:00",
+      "sha1": "1b1e310213dce4b979e13ed2f9647b5dbe72970a",
+      "type": "snapshot",
+      "url": "{MOJANG}/1b1e310213dce4b979e13ed2f9647b5dbe72970a/21w10a.json"
+    },
+    {
+      "id": "21w08b",
+      "releaseTime": "2021-02-25T11:46:34+00:00",
+      "sha1": "ecc0a0bc426f23539806a2e4d3c99f1825e9bb9f",
+      "type": "snapshot",
+      "url": "{MOJANG}/ecc0a0bc426f23539806a2e4d3c99f1825e9bb9f/21w08b.json"
+    },
+    {
+      "id": "21w08a",
+      "releaseTime": "2021-02-24T14:38:51+00:00",
+      "sha1": "b6d06bf2779a4dbe40ffce5df8d0d9376f42ee1a",
+      "type": "snapshot",
+      "url": "{MOJANG}/b6d06bf2779a4dbe40ffce5df8d0d9376f42ee1a/21w08a.json"
+    },
+    {
+      "id": "21w07a",
+      "releaseTime": "2021-02-17T16:35:40+00:00",
+      "sha1": "86a5a82b1f89c21f138970991a007a6717597eae",
+      "type": "snapshot",
+      "url": "{MOJANG}/86a5a82b1f89c21f138970991a007a6717597eae/21w07a.json"
+    },
+    {
+      "id": "21w06a",
+      "releaseTime": "2021-02-10T17:13:54+00:00",
+      "sha1": "4f3d809d1de4fe6743bcd428146908cfad87b9ea",
+      "type": "snapshot",
+      "url": "{MOJANG}/4f3d809d1de4fe6743bcd428146908cfad87b9ea/21w06a.json"
+    },
+    {
+      "id": "21w05b",
+      "releaseTime": "2021-02-04T15:09:29+00:00",
+      "sha1": "984168a87e50aeefd01c90c45ac59eb0ce34d81e",
+      "type": "snapshot",
+      "url": "{MOJANG}/984168a87e50aeefd01c90c45ac59eb0ce34d81e/21w05b.json"
+    },
+    {
+      "id": "21w05a",
+      "releaseTime": "2021-02-03T15:56:54+00:00",
+      "sha1": "29209c95d03403052c1ce07db170fac0d032f556",
+      "type": "snapshot",
+      "url": "{MOJANG}/29209c95d03403052c1ce07db170fac0d032f556/21w05a.json"
+    },
+    {
+      "id": "21w03a",
+      "releaseTime": "2021-01-20T14:56:29+00:00",
+      "sha1": "adecbead882fbcdb3f7ec7410e8e825aa8685b8f",
+      "type": "snapshot",
+      "url": "{MOJANG}/adecbead882fbcdb3f7ec7410e8e825aa8685b8f/21w03a.json"
+    },
+    {
+      "id": "1.16.5",
+      "releaseTime": "2021-01-14T16:05:32+00:00",
+      "sha1": "95af6e50cd04f06f65c76e4a62237504387e5480",
+      "type": "release",
+      "url": "{MOJANG}/95af6e50cd04f06f65c76e4a62237504387e5480/1.16.5.json"
+    },
+    {
+      "id": "1.16.5-rc1",
+      "releaseTime": "2021-01-13T15:58:55+00:00",
+      "sha1": "ec36dacfce7475bc0383bcb3b4bcb07764238b18",
+      "type": "snapshot",
+      "url": "{MOJANG}/ec36dacfce7475bc0383bcb3b4bcb07764238b18/1.16.5-rc1.json"
+    },
+    {
+      "id": "20w51a",
+      "releaseTime": "2020-12-16T16:27:57+00:00",
+      "sha1": "4e737566880bbb229dfb1d90f7efcde60315ce19",
+      "type": "snapshot",
+      "url": "{MOJANG}/4e737566880bbb229dfb1d90f7efcde60315ce19/20w51a.json"
+    },
+    {
+      "id": "20w49a",
+      "releaseTime": "2020-12-02T16:47:20+00:00",
+      "sha1": "165339ba00adad2c7cd4a08e0c8936c608135331",
+      "type": "snapshot",
+      "url": "{MOJANG}/165339ba00adad2c7cd4a08e0c8936c608135331/20w49a.json"
+    },
+    {
+      "id": "20w48a",
+      "releaseTime": "2020-11-25T15:42:24+00:00",
+      "sha1": "e338789b007c9d95715b5fd385be36a36be544d8",
+      "type": "snapshot",
+      "url": "{MOJANG}/e338789b007c9d95715b5fd385be36a36be544d8/20w48a.json"
+    },
+    {
+      "id": "20w46a",
+      "releaseTime": "2020-11-11T15:30:32+00:00",
+      "sha1": "6cdf0446ae0e00ddf3ddad424a2c019bb394cf59",
+      "type": "snapshot",
+      "url": "{MOJANG}/6cdf0446ae0e00ddf3ddad424a2c019bb394cf59/20w46a.json"
+    },
+    {
+      "id": "20w45a",
+      "releaseTime": "2020-11-04T16:42:00+00:00",
+      "sha1": "8b094645c5c85c4967c632d50d4b2cda080847b0",
+      "type": "snapshot",
+      "url": "{MOJANG}/8b094645c5c85c4967c632d50d4b2cda080847b0/20w45a.json"
+    },
+    {
+      "id": "1.16.4",
+      "releaseTime": "2020-10-29T15:49:37+00:00",
+      "sha1": "893c540ffde53ffad693695a7aafb8a1d7478894",
+      "type": "release",
+      "url": "{MOJANG}/893c540ffde53ffad693695a7aafb8a1d7478894/1.16.4.json"
+    },
+    {
+      "id": "1.16.4-rc1",
+      "releaseTime": "2020-10-27T16:31:08+00:00",
+      "sha1": "a3de339916d2035a33e82e830637635c5955ea83",
+      "type": "snapshot",
+      "url": "{MOJANG}/a3de339916d2035a33e82e830637635c5955ea83/1.16.4-rc1.json"
+    },
+    {
+      "id": "1.16.4-pre2",
+      "releaseTime": "2020-10-22T15:32:17+00:00",
+      "sha1": "9f4a53343fb0b0e6bfaaa3aaabef928e3faed9d3",
+      "type": "snapshot",
+      "url": "{MOJANG}/9f4a53343fb0b0e6bfaaa3aaabef928e3faed9d3/1.16.4-pre2.json"
+    },
+    {
+      "id": "1.16.4-pre1",
+      "releaseTime": "2020-10-13T14:36:07+00:00",
+      "sha1": "2209e3ddec0d68828c09dbe373baaed8e07aee99",
+      "type": "snapshot",
+      "url": "{MOJANG}/2209e3ddec0d68828c09dbe373baaed8e07aee99/1.16.4-pre1.json"
+    },
+    {
+      "id": "1.16.3",
+      "releaseTime": "2020-09-10T13:42:37+00:00",
+      "sha1": "54ad06cd4c7c1205d05c28e7f4de22d166779d47",
+      "type": "release",
+      "url": "{MOJANG}/54ad06cd4c7c1205d05c28e7f4de22d166779d47/1.16.3.json"
+    },
+    {
+      "id": "1.16.3-rc1",
+      "releaseTime": "2020-09-07T12:34:06+00:00",
+      "sha1": "80962ff8d66d9e6be8ae71352b2ec8aa899a9d7b",
+      "type": "snapshot",
+      "url": "{MOJANG}/80962ff8d66d9e6be8ae71352b2ec8aa899a9d7b/1.16.3-rc1.json"
+    },
+    {
+      "id": "1.16_combat-6",
+      "releaseTime": "2020-08-26T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "13538e25d9c817f2f4ab112eaeae293ed3d53d6c",
+      "url": "{ATLAS_RESOURCES}/1.16_combat-6.json"
+    },
+    {
+      "id": "1.16_combat-5",
+      "releaseTime": "2020-08-21T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "a93a5b8801c917906325384047227961a98e9389",
+      "url": "{ATLAS_RESOURCES}/1.16_combat-5.json"
+    },
+    {
+      "id": "1.16_combat-4",
+      "releaseTime": "2020-08-19T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "a227ff06a8ae0821b56961df4c5124a336af594d",
+      "url": "{ATLAS_RESOURCES}/1.16_combat-4.json"
+    },
+    {
+      "id": "1.16_combat-3",
+      "releaseTime": "2020-08-14T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "334f2344329e8e8a0f63a89e2090677a7dae170b",
+      "url": "{ATLAS_RESOURCES}/1.16_combat-3.json"
+    },
+    {
+      "id": "1.16_combat-2",
+      "releaseTime": "2020-08-13T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "5814d378438bdb1762d59c827c1a07d7d3b0d99e",
+      "url": "{ATLAS_RESOURCES}/1.16_combat-2.json"
+    },
+    {
+      "id": "1.16_combat-1",
+      "releaseTime": "2020-08-12T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "ff9274b717482d7ac0ff69e21befb246bf1475fe",
+      "url": "{ATLAS_RESOURCES}/1.16_combat-1.json"
+    },
+    {
+      "id": "1.16.2",
+      "releaseTime": "2020-08-11T10:13:46+00:00",
+      "sha1": "a5cd0a3e52f38c9fb713010b07f7ae89e183b0ff",
+      "type": "release",
+      "url": "{MOJANG}/a5cd0a3e52f38c9fb713010b07f7ae89e183b0ff/1.16.2.json"
+    },
+    {
+      "id": "1.16.2-rc2",
+      "releaseTime": "2020-08-10T11:43:36+00:00",
+      "sha1": "0bea810bb372c8f44f2946b98288e298c48edd4d",
+      "type": "snapshot",
+      "url": "{MOJANG}/0bea810bb372c8f44f2946b98288e298c48edd4d/1.16.2-rc2.json"
+    },
+    {
+      "id": "1.16.2-rc1",
+      "releaseTime": "2020-08-07T14:35:39+00:00",
+      "sha1": "162e8f04e5d0d12d7944d20735666e9cc34639d5",
+      "type": "snapshot",
+      "url": "{MOJANG}/162e8f04e5d0d12d7944d20735666e9cc34639d5/1.16.2-rc1.json"
+    },
+    {
+      "id": "1.16_combat-0",
+      "releaseTime": "2020-08-07T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "0b9a1b9fb5c3f4a1f9e87c294992328dab82c919",
+      "url": "{ATLAS_RESOURCES}/1.16_combat-0.json"
+    },
+    {
+      "id": "1.16.2-pre3",
+      "releaseTime": "2020-08-06T16:44:52+00:00",
+      "sha1": "ce60958868cd0b7e8ec69b0d3df5fe900fbf41a1",
+      "type": "snapshot",
+      "url": "{MOJANG}/ce60958868cd0b7e8ec69b0d3df5fe900fbf41a1/1.16.2-pre3.json"
+    },
+    {
+      "id": "1.16.2-pre2",
+      "releaseTime": "2020-08-05T15:30:50+00:00",
+      "sha1": "dc2b919fa002cb0be5366655c29db26588f2a2d8",
+      "type": "snapshot",
+      "url": "{MOJANG}/dc2b919fa002cb0be5366655c29db26588f2a2d8/1.16.2-pre2.json"
+    },
+    {
+      "id": "1.16.2-pre1",
+      "releaseTime": "2020-07-29T13:19:05+00:00",
+      "sha1": "ef6bc76723754a865ee2f2da19dc50d6826a041b",
+      "type": "snapshot",
+      "url": "{MOJANG}/ef6bc76723754a865ee2f2da19dc50d6826a041b/1.16.2-pre1.json"
+    },
+    {
+      "id": "20w30a",
+      "releaseTime": "2020-07-22T15:05:15+00:00",
+      "sha1": "9b7948cfd40175e7e885a7772754aef6bc850fd7",
+      "type": "snapshot",
+      "url": "{MOJANG}/9b7948cfd40175e7e885a7772754aef6bc850fd7/20w30a.json"
+    },
+    {
+      "id": "20w29a",
+      "releaseTime": "2020-07-15T14:13:47+00:00",
+      "sha1": "a81fb95682024c16d5180c21db2044c522617ca4",
+      "type": "snapshot",
+      "url": "{MOJANG}/a81fb95682024c16d5180c21db2044c522617ca4/20w29a.json"
+    },
+    {
+      "id": "20w28a",
+      "releaseTime": "2020-07-08T15:10:40+00:00",
+      "sha1": "1c059f22e88f87945c6626a25002debdbbdcc9c9",
+      "type": "snapshot",
+      "url": "{MOJANG}/1c059f22e88f87945c6626a25002debdbbdcc9c9/20w28a.json"
+    },
+    {
+      "id": "20w27a",
+      "releaseTime": "2020-07-01T15:07:35+00:00",
+      "sha1": "20b1926e127e2363eafd18cb4c15f0322ad926e2",
+      "type": "snapshot",
+      "url": "{MOJANG}/20b1926e127e2363eafd18cb4c15f0322ad926e2/20w27a.json"
+    },
+    {
+      "id": "1.16.1",
+      "releaseTime": "2020-06-24T10:31:40+00:00",
+      "sha1": "db482626f80f0d3b30495948d3ed89a7c904c42e",
+      "type": "release",
+      "url": "{MOJANG}/db482626f80f0d3b30495948d3ed89a7c904c42e/1.16.1.json"
+    },
+    {
+      "id": "1.16",
+      "releaseTime": "2020-06-23T16:20:52+00:00",
+      "sha1": "56c19936e578db40b910835faefa2c2fcfc07628",
+      "type": "release",
+      "url": "{MOJANG}/56c19936e578db40b910835faefa2c2fcfc07628/1.16.json"
+    },
+    {
+      "id": "1.16-rc1",
+      "releaseTime": "2020-06-18T12:49:28+00:00",
+      "sha1": "7b41975f529e8c8b683d383cb30ed0c73508cfd3",
+      "type": "snapshot",
+      "url": "{MOJANG}/7b41975f529e8c8b683d383cb30ed0c73508cfd3/1.16-rc1.json"
+    },
+    {
+      "id": "1.16-pre8",
+      "releaseTime": "2020-06-17T14:45:23+00:00",
+      "sha1": "07794250d83f83ae02674ba2eef8191c666362f1",
+      "type": "snapshot",
+      "url": "{MOJANG}/07794250d83f83ae02674ba2eef8191c666362f1/1.16-pre8.json"
+    },
+    {
+      "id": "1.16-pre7",
+      "releaseTime": "2020-06-16T15:31:35+00:00",
+      "sha1": "fd91aeab0b3c5e8c2592b8382030c84d3d2207ea",
+      "type": "snapshot",
+      "url": "{MOJANG}/fd91aeab0b3c5e8c2592b8382030c84d3d2207ea/1.16-pre7.json"
+    },
+    {
+      "id": "1.16-pre6",
+      "releaseTime": "2020-06-15T16:57:57+00:00",
+      "sha1": "5e6392e56ab5e7abe7252429d12929977fce8160",
+      "type": "snapshot",
+      "url": "{MOJANG}/5e6392e56ab5e7abe7252429d12929977fce8160/1.16-pre6.json"
+    },
+    {
+      "id": "1.16-pre5",
+      "releaseTime": "2020-06-12T14:33:59+00:00",
+      "sha1": "ff786c6b5a31cdeebb388da8737795272007c4d0",
+      "type": "snapshot",
+      "url": "{MOJANG}/ff786c6b5a31cdeebb388da8737795272007c4d0/1.16-pre5.json"
+    },
+    {
+      "id": "1.16-pre4",
+      "releaseTime": "2020-06-11T15:45:55+00:00",
+      "sha1": "af1397e9f10ec2801d997ff1f59baff721adccc0",
+      "type": "snapshot",
+      "url": "{MOJANG}/af1397e9f10ec2801d997ff1f59baff721adccc0/1.16-pre4.json"
+    },
+    {
+      "id": "1.16-pre3",
+      "releaseTime": "2020-06-10T14:57:43+00:00",
+      "sha1": "905f2d5b67d591829e35dddae3c4de858ade34d1",
+      "type": "snapshot",
+      "url": "{MOJANG}/905f2d5b67d591829e35dddae3c4de858ade34d1/1.16-pre3.json"
+    },
+    {
+      "id": "1.16-pre2",
+      "releaseTime": "2020-06-05T10:47:59+00:00",
+      "sha1": "dc006b45efa5406b84d25947b00c5de30f307394",
+      "type": "snapshot",
+      "url": "{MOJANG}/dc006b45efa5406b84d25947b00c5de30f307394/1.16-pre2.json"
+    },
+    {
+      "id": "1.16-pre1",
+      "releaseTime": "2020-06-04T18:17:51+00:00",
+      "sha1": "fca4a3ce929df68ab63b780c942ce678af64d3c7",
+      "type": "snapshot",
+      "url": "{MOJANG}/fca4a3ce929df68ab63b780c942ce678af64d3c7/1.16-pre1.json"
+    },
+    {
+      "id": "20w22a",
+      "releaseTime": "2020-05-29T11:25:02+00:00",
+      "sha1": "07590ad3722bc903cf28507399c484723421c983",
+      "type": "snapshot",
+      "url": "{MOJANG}/07590ad3722bc903cf28507399c484723421c983/20w22a.json"
+    },
+    {
+      "id": "20w21a",
+      "releaseTime": "2020-05-20T12:07:18+00:00",
+      "sha1": "e6f6c6a802bf47764dfded0bc961a9830e9cf559",
+      "type": "snapshot",
+      "url": "{MOJANG}/e6f6c6a802bf47764dfded0bc961a9830e9cf559/20w21a.json"
+    },
+    {
+      "id": "20w20b",
+      "releaseTime": "2020-05-14T08:16:26+00:00",
+      "sha1": "8cf88a6c3c2d8cfd1c817e118d56bb2ecef0ae59",
+      "type": "snapshot",
+      "url": "{MOJANG}/8cf88a6c3c2d8cfd1c817e118d56bb2ecef0ae59/20w20b.json"
+    },
+    {
+      "id": "20w20a",
+      "releaseTime": "2020-05-13T15:11:43+00:00",
+      "sha1": "5047dd1cfbdffbdeca13727d0f86239c65f11a10",
+      "type": "snapshot",
+      "url": "{MOJANG}/5047dd1cfbdffbdeca13727d0f86239c65f11a10/20w20a.json"
+    },
+    {
+      "id": "20w19a",
+      "releaseTime": "2020-05-06T16:23:24+00:00",
+      "sha1": "ef91eccad2dd0a7af63f06f654c16ed292ff16b2",
+      "type": "snapshot",
+      "url": "{MOJANG}/ef91eccad2dd0a7af63f06f654c16ed292ff16b2/20w19a.json"
+    },
+    {
+      "id": "20w18a",
+      "releaseTime": "2020-04-29T15:16:34+00:00",
+      "sha1": "5a37f7cde062eb1db85e44e432e3139d9149b5cb",
+      "type": "snapshot",
+      "url": "{MOJANG}/5a37f7cde062eb1db85e44e432e3139d9149b5cb/20w18a.json"
+    },
+    {
+      "id": "20w17a",
+      "releaseTime": "2020-04-22T13:47:50+00:00",
+      "sha1": "1c29e2acfaea79c595c9b30e1fb0a2345a0e0ec7",
+      "type": "snapshot",
+      "url": "{MOJANG}/1c29e2acfaea79c595c9b30e1fb0a2345a0e0ec7/20w17a.json"
+    },
+    {
+      "id": "20w16a",
+      "releaseTime": "2020-04-15T14:13:01+00:00",
+      "sha1": "0b692abcf39fe11730efbc75298ae4c6cb164371",
+      "type": "snapshot",
+      "url": "{MOJANG}/0b692abcf39fe11730efbc75298ae4c6cb164371/20w16a.json"
+    },
+    {
+      "id": "20w15a",
+      "releaseTime": "2020-04-08T12:29:24+00:00",
+      "sha1": "f41d2a37668b37267c057e0d870d2262639e3e48",
+      "type": "snapshot",
+      "url": "{MOJANG}/f41d2a37668b37267c057e0d870d2262639e3e48/20w15a.json"
+    },
+    {
+      "id": "20w14a",
+      "releaseTime": "2020-04-02T14:28:06+00:00",
+      "sha1": "2a916b7368aa072faa10b26d577fe425ef9da6e6",
+      "type": "snapshot",
+      "url": "{MOJANG}/2a916b7368aa072faa10b26d577fe425ef9da6e6/20w14a.json"
+    },
+    {
+      "id": "20w14infinite",
+      "releaseTime": "2020-04-01T12:47:08+00:00",
+      "sha1": "394eb84b4082b11470f82e9c889ad324727d98c2",
+      "type": "snapshot",
+      "url": "{MOJANG}/394eb84b4082b11470f82e9c889ad324727d98c2/20w14infinite.json"
+    },
+    {
+      "id": "20w14infinite",
+      "releaseTime": "2020-04-01T00:00:00+00:00",
+      "sha1": "23eabba862a988d1f6ed27aecfbc14ef083dcc46",
+      "type": "snapshot",
+      "url": "{MOJANG}/23eabba862a988d1f6ed27aecfbc14ef083dcc46/20w14infinite.json"
+    },
+    {
+      "id": "20w13b",
+      "releaseTime": "2020-03-26T13:00:34+00:00",
+      "sha1": "e4c01be12f979826673cec20260e97b46cb18dc4",
+      "type": "snapshot",
+      "url": "{MOJANG}/e4c01be12f979826673cec20260e97b46cb18dc4/20w13b.json"
+    },
+    {
+      "id": "20w13a",
+      "releaseTime": "2020-03-25T17:05:33+00:00",
+      "sha1": "fb3b0899072407ef6c2bebbfa36196a8a4e693bf",
+      "type": "snapshot",
+      "url": "{MOJANG}/fb3b0899072407ef6c2bebbfa36196a8a4e693bf/20w13a.json"
+    },
+    {
+      "id": "20w12a",
+      "releaseTime": "2020-03-18T16:42:06+00:00",
+      "sha1": "7458c85b2eb3953c324e34f09bc061461fdff782",
+      "type": "snapshot",
+      "url": "{MOJANG}/7458c85b2eb3953c324e34f09bc061461fdff782/20w12a.json"
+    },
+    {
+      "id": "20w11a",
+      "releaseTime": "2020-03-11T16:28:27+00:00",
+      "sha1": "ce3bed61ccad2cc1d9caa4b7665665390adc54fd",
+      "type": "snapshot",
+      "url": "{MOJANG}/ce3bed61ccad2cc1d9caa4b7665665390adc54fd/20w11a.json"
+    },
+    {
+      "id": "20w10a",
+      "releaseTime": "2020-03-04T16:21:41+00:00",
+      "sha1": "e40a6086411ec0b1df33ffd2241cdcc3c0bc5c68",
+      "type": "snapshot",
+      "url": "{MOJANG}/e40a6086411ec0b1df33ffd2241cdcc3c0bc5c68/20w10a.json"
+    },
+    {
+      "id": "20w09a",
+      "releaseTime": "2020-02-26T16:43:08+00:00",
+      "sha1": "0eaa824535bbae9faed0f151527ef9e2c973320d",
+      "type": "snapshot",
+      "url": "{MOJANG}/0eaa824535bbae9faed0f151527ef9e2c973320d/20w09a.json"
+    },
+    {
+      "id": "20w08a",
+      "releaseTime": "2020-02-19T13:30:09+00:00",
+      "sha1": "27e45629bcdbb195f3c38efbbf61262b5553150d",
+      "type": "snapshot",
+      "url": "{MOJANG}/27e45629bcdbb195f3c38efbbf61262b5553150d/20w08a.json"
+    },
+    {
+      "id": "20w07a",
+      "releaseTime": "2020-02-14T13:20:49+00:00",
+      "sha1": "a8bdc23d97c7abf3e1ab6745089861e28aeac056",
+      "type": "snapshot",
+      "url": "{MOJANG}/a8bdc23d97c7abf3e1ab6745089861e28aeac056/20w07a.json"
+    },
+    {
+      "id": "20w06a",
+      "releaseTime": "2020-02-05T16:05:22+00:00",
+      "sha1": "ddf99edd0a9a9d79502b53e79d186bb718a9bbf6",
+      "type": "snapshot",
+      "url": "{MOJANG}/ddf99edd0a9a9d79502b53e79d186bb718a9bbf6/20w06a.json"
+    },
+    {
+      "id": "1.15.2",
+      "releaseTime": "2020-01-17T10:03:52+00:00",
+      "sha1": "a134a40902959810875d4642a4ac9c69c37e39a0",
+      "type": "release",
+      "url": "{MOJANG}/a134a40902959810875d4642a4ac9c69c37e39a0/1.15.2.json"
+    },
+    {
+      "id": "1.15.2-pre2",
+      "releaseTime": "2020-01-16T12:35:57+00:00",
+      "sha1": "7dfbe4b42cf61df47f71713590dd069267449420",
+      "type": "snapshot",
+      "url": "{MOJANG}/7dfbe4b42cf61df47f71713590dd069267449420/1.15.2-pre2.json"
+    },
+    {
+      "id": "1.15_combat-6",
+      "releaseTime": "2020-01-16T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "2c1f065fef82d9ab89db539e32a294e54c64ff1a",
+      "url": "{ATLAS_RESOURCES}/1.15_combat-6.json"
+    },
+    {
+      "id": "1.15.2-pre1",
+      "releaseTime": "2020-01-14T16:19:31+00:00",
+      "sha1": "6e8723a73cc47b4a81e44ca25b1a2d2dce3b1c04",
+      "type": "snapshot",
+      "url": "{MOJANG}/6e8723a73cc47b4a81e44ca25b1a2d2dce3b1c04/1.15.2-pre1.json"
+    },
+    {
+      "id": "1.15.1",
+      "releaseTime": "2019-12-16T10:29:47+00:00",
+      "sha1": "3526ede769b1a1d30aca5b7b98a81607c60305f7",
+      "type": "release",
+      "url": "{MOJANG}/3526ede769b1a1d30aca5b7b98a81607c60305f7/1.15.1.json"
+    },
+    {
+      "id": "1.15.1-pre1",
+      "releaseTime": "2019-12-12T14:02:30+00:00",
+      "sha1": "27ceb6dbdca4821a509ed70d26773cfecef4ce63",
+      "type": "snapshot",
+      "url": "{MOJANG}/27ceb6dbdca4821a509ed70d26773cfecef4ce63/1.15.1-pre1.json"
+    },
+    {
+      "id": "1.15",
+      "releaseTime": "2019-12-09T13:13:38+00:00",
+      "sha1": "75d15976c2d82a0afd796802bac73c934ea59df7",
+      "type": "release",
+      "url": "{MOJANG}/75d15976c2d82a0afd796802bac73c934ea59df7/1.15.json"
+    },
+    {
+      "id": "1.15-pre7",
+      "releaseTime": "2019-12-09T12:14:11+00:00",
+      "sha1": "54358db380289fb3547a1d7fb5761b1b1f6d0ba8",
+      "type": "snapshot",
+      "url": "{MOJANG}/54358db380289fb3547a1d7fb5761b1b1f6d0ba8/1.15-pre7.json"
+    },
+    {
+      "id": "1.15-pre6",
+      "releaseTime": "2019-12-06T12:04:30+00:00",
+      "sha1": "6d4356b81f961250fccd9355c0bb115afc181a1b",
+      "type": "snapshot",
+      "url": "{MOJANG}/6d4356b81f961250fccd9355c0bb115afc181a1b/1.15-pre6.json"
+    },
+    {
+      "id": "1.15-pre5",
+      "releaseTime": "2019-12-05T13:20:00+00:00",
+      "sha1": "97d4e275e0d5cf754fabfc6017e0cf410fb25e50",
+      "type": "snapshot",
+      "url": "{MOJANG}/97d4e275e0d5cf754fabfc6017e0cf410fb25e50/1.15-pre5.json"
+    },
+    {
+      "id": "1.15-pre4",
+      "releaseTime": "2019-12-03T12:24:24+00:00",
+      "sha1": "a2c68e78c6887d91af86cbe51bda9902565c36b5",
+      "type": "snapshot",
+      "url": "{MOJANG}/a2c68e78c6887d91af86cbe51bda9902565c36b5/1.15-pre4.json"
+    },
+    {
+      "id": "1.15-pre3",
+      "releaseTime": "2019-11-28T17:17:50+00:00",
+      "sha1": "d99a70baa558e7912f9331e42263125d18c97e27",
+      "type": "snapshot",
+      "url": "{MOJANG}/d99a70baa558e7912f9331e42263125d18c97e27/1.15-pre3.json"
+    },
+    {
+      "id": "1.15-pre2",
+      "releaseTime": "2019-11-25T18:09:38+00:00",
+      "sha1": "ab23ff69e4bc33349868f88ec0eab0a9024e9d79",
+      "type": "snapshot",
+      "url": "{MOJANG}/ab23ff69e4bc33349868f88ec0eab0a9024e9d79/1.15-pre2.json"
+    },
+    {
+      "id": "1.15-pre1",
+      "releaseTime": "2019-11-21T17:01:17+00:00",
+      "sha1": "b92f7ad0e2dea435c9738b09a069199b37869398",
+      "type": "snapshot",
+      "url": "{MOJANG}/b92f7ad0e2dea435c9738b09a069199b37869398/1.15-pre1.json"
+    },
+    {
+      "id": "1.15_combat-1",
+      "releaseTime": "2019-11-20T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "1ef4d534cb701e724c90c09ed13860a9fc2a66ae",
+      "url": "{ATLAS_RESOURCES}/1.15_combat-1.json"
+    },
+    {
+      "id": "19w46b",
+      "releaseTime": "2019-11-14T13:29:24+00:00",
+      "sha1": "c8aabd44ac18b173a68091c00b4ff0151f29faeb",
+      "type": "snapshot",
+      "url": "{MOJANG}/c8aabd44ac18b173a68091c00b4ff0151f29faeb/19w46b.json"
+    },
+    {
+      "id": "19w46a",
+      "releaseTime": "2019-11-13T16:37:46+00:00",
+      "sha1": "d129178105f1a1ab114b925752322c963f521eb7",
+      "type": "snapshot",
+      "url": "{MOJANG}/d129178105f1a1ab114b925752322c963f521eb7/19w46a.json"
+    },
+    {
+      "id": "19w45b",
+      "releaseTime": "2019-11-08T12:42:44+00:00",
+      "sha1": "f2ab5210dbc8768733b227747139e6054b93ae57",
+      "type": "snapshot",
+      "url": "{MOJANG}/f2ab5210dbc8768733b227747139e6054b93ae57/19w45b.json"
+    },
+    {
+      "id": "19w45a",
+      "releaseTime": "2019-11-07T16:19:20+00:00",
+      "sha1": "9ac552143b82bb8740b34c23dd997c4aab23f2dd",
+      "type": "snapshot",
+      "url": "{MOJANG}/9ac552143b82bb8740b34c23dd997c4aab23f2dd/19w45a.json"
+    },
+    {
+      "id": "1.14_combat-3",
+      "releaseTime": "2019-11-01T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "787894b3d4b2891e79525bea730fdd39c666a4f8",
+      "url": "{ATLAS_RESOURCES}/1.14_combat-3.json"
+    },
+    {
+      "id": "19w44a",
+      "releaseTime": "2019-10-30T15:31:44+00:00",
+      "sha1": "0b7015eb577c9e04a5a21b83fa7f4d8d7b723e93",
+      "type": "snapshot",
+      "url": "{MOJANG}/0b7015eb577c9e04a5a21b83fa7f4d8d7b723e93/19w44a.json"
+    },
+    {
+      "id": "19w42a",
+      "releaseTime": "2019-10-16T15:30:39+00:00",
+      "sha1": "ac1a6a7f15382cda12878d5e304c6a34ed6349d5",
+      "type": "snapshot",
+      "url": "{MOJANG}/ac1a6a7f15382cda12878d5e304c6a34ed6349d5/19w42a.json"
+    },
+    {
+      "id": "19w41a",
+      "releaseTime": "2019-10-09T15:21:35+00:00",
+      "sha1": "fbcc94f6cdb36247a70e87d06811bfacc83f3e8c",
+      "type": "snapshot",
+      "url": "{MOJANG}/fbcc94f6cdb36247a70e87d06811bfacc83f3e8c/19w41a.json"
+    },
+    {
+      "id": "19w40a",
+      "releaseTime": "2019-10-02T13:40:26+00:00",
+      "sha1": "02785403832a5aad38d51e71d5912d75dc196f10",
+      "type": "snapshot",
+      "url": "{MOJANG}/02785403832a5aad38d51e71d5912d75dc196f10/19w40a.json"
+    },
+    {
+      "id": "19w39a",
+      "releaseTime": "2019-09-27T10:13:33+00:00",
+      "sha1": "75eb7c180e5be8e730ba7b2a9d495a9d33092a7f",
+      "type": "snapshot",
+      "url": "{MOJANG}/75eb7c180e5be8e730ba7b2a9d495a9d33092a7f/19w39a.json"
+    },
+    {
+      "id": "19w38b",
+      "releaseTime": "2019-09-18T14:59:13+00:00",
+      "sha1": "b9166a39db29187cb5aca9ba57457d300dc30390",
+      "type": "snapshot",
+      "url": "{MOJANG}/b9166a39db29187cb5aca9ba57457d300dc30390/19w38b.json"
+    },
+    {
+      "id": "19w38a",
+      "releaseTime": "2019-09-18T10:03:22+00:00",
+      "sha1": "5fd4c2e92056d7ad3727af992a1c1c1a96f892e6",
+      "type": "snapshot",
+      "url": "{MOJANG}/5fd4c2e92056d7ad3727af992a1c1c1a96f892e6/19w38a.json"
+    },
+    {
+      "id": "19w37a",
+      "releaseTime": "2019-09-11T11:46:44+00:00",
+      "sha1": "add2b28d6e297e10e139955c13e3c3d7caa19603",
+      "type": "snapshot",
+      "url": "{MOJANG}/add2b28d6e297e10e139955c13e3c3d7caa19603/19w37a.json"
+    },
+    {
+      "id": "19w36a",
+      "releaseTime": "2019-09-04T11:19:34+00:00",
+      "sha1": "fa89fbd191476584136418814c4e1e808f6e5381",
+      "type": "snapshot",
+      "url": "{MOJANG}/fa89fbd191476584136418814c4e1e808f6e5381/19w36a.json"
+    },
+    {
+      "id": "19w35a",
+      "releaseTime": "2019-08-28T15:01:44+00:00",
+      "sha1": "160fd40277b049c90c3402261f59f2ccb5e81506",
+      "type": "snapshot",
+      "url": "{MOJANG}/160fd40277b049c90c3402261f59f2ccb5e81506/19w35a.json"
+    },
+    {
+      "id": "19w34a",
+      "releaseTime": "2019-08-22T12:06:21+00:00",
+      "sha1": "f7419386943a8c54a6067078921508730bee3d87",
+      "type": "snapshot",
+      "url": "{MOJANG}/f7419386943a8c54a6067078921508730bee3d87/19w34a.json"
+    },
+    {
+      "id": "1.14_combat-0",
+      "releaseTime": "2019-08-15T00:00:00+00:00",
+      "type": "snapshot",
+      "sha1": "a00fd763c4dc6a162cd543f261df1b2d50643d54",
+      "url": "{ATLAS_RESOURCES}/1.14_combat-0.json"
+    },
+    {
+      "id": "1.14.4",
+      "releaseTime": "2019-07-19T09:25:47+00:00",
+      "sha1": "8f81523cd2c2fdaf9c37431fceb0a446dbe71ed5",
+      "type": "release",
+      "url": "{MOJANG}/8f81523cd2c2fdaf9c37431fceb0a446dbe71ed5/1.14.4.json"
+    },
+    {
+      "id": "1.14.4-pre7",
+      "releaseTime": "2019-07-18T11:32:36+00:00",
+      "sha1": "225785e19ae0b841ca67e71a2dae81fe109c872a",
+      "type": "snapshot",
+      "url": "{MOJANG}/225785e19ae0b841ca67e71a2dae81fe109c872a/1.14.4-pre7.json"
+    },
+    {
+      "id": "1.14.4-pre6",
+      "releaseTime": "2019-07-15T12:39:49+00:00",
+      "sha1": "5064ae3ee503c8ebc27928d6ae8d6937367bcdc5",
+      "type": "snapshot",
+      "url": "{MOJANG}/5064ae3ee503c8ebc27928d6ae8d6937367bcdc5/1.14.4-pre6.json"
+    },
+    {
+      "id": "1.14.4-pre5",
+      "releaseTime": "2019-07-11T10:52:33+00:00",
+      "sha1": "edae35914121182e2253dabdb6ad37e9219dfd1a",
+      "type": "snapshot",
+      "url": "{MOJANG}/edae35914121182e2253dabdb6ad37e9219dfd1a/1.14.4-pre5.json"
+    },
+    {
+      "id": "1.14.4-pre4",
+      "releaseTime": "2019-07-10T12:53:29+00:00",
+      "sha1": "9d8f7c94726e8c9058d98aa5d791540854c06c28",
+      "type": "snapshot",
+      "url": "{MOJANG}/9d8f7c94726e8c9058d98aa5d791540854c06c28/1.14.4-pre4.json"
+    },
+    {
+      "id": "1.14.4-pre3",
+      "releaseTime": "2019-07-08T11:21:42+00:00",
+      "sha1": "23ea71adf67bfe0159c271e4113ad46a4c7ff8b8",
+      "type": "snapshot",
+      "url": "{MOJANG}/23ea71adf67bfe0159c271e4113ad46a4c7ff8b8/1.14.4-pre3.json"
+    },
+    {
+      "id": "1.14.4-pre2",
+      "releaseTime": "2019-07-04T14:41:05+00:00",
+      "sha1": "b781fc09310f223c0304297b7e094a75a5612381",
+      "type": "snapshot",
+      "url": "{MOJANG}/b781fc09310f223c0304297b7e094a75a5612381/1.14.4-pre2.json"
+    },
+    {
+      "id": "1.14.4-pre1",
+      "releaseTime": "2019-07-03T13:01:01+00:00",
+      "sha1": "dd23d80d9b2d4ecc2800541922f0b0ec4e6c89d3",
+      "type": "snapshot",
+      "url": "{MOJANG}/dd23d80d9b2d4ecc2800541922f0b0ec4e6c89d3/1.14.4-pre1.json"
+    },
+    {
+      "id": "1.14.3",
+      "releaseTime": "2019-06-24T12:52:52+00:00",
+      "sha1": "970fb095132b5fa3edf829bbc487d415f3267d7f",
+      "type": "release",
+      "url": "{MOJANG}/970fb095132b5fa3edf829bbc487d415f3267d7f/1.14.3.json"
+    },
+    {
       "id": "1.14_combat-212796",
       "releaseTime": "2019-06-20T00:00:00+00:00",
+      "sha1": "92cdadc68dab490d2d8b287b5374a01be05a8b06",
       "type": "snapshot",
       "url": "{ATLAS_RESOURCES}/1.14_combat-212796.json"
     },
